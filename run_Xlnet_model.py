@@ -4,8 +4,6 @@ Created on Sun Oct 25 00:19:30 2020
 
 @author: Jiang Yuxin
 """
-
-import math
 import os
 import pandas as pd
 import torch
@@ -14,14 +12,13 @@ from transformers import get_linear_schedule_with_warmup
 from transformers.optimization import AdamW
 from sys import platform
 
-
 from data_sst2 import DataPrecessForSentence
 from utils import train, validate, test
-from models import BertModel
+from models import XlnetModel
 
 def model_train_validate_test(train_df, dev_df, test_df, target_dir, 
          max_seq_len=50,
-         epochs=13,
+         epochs=3,
          batch_size=32,
          lr=2e-05,
          patience=1,
@@ -45,8 +42,8 @@ def model_train_validate_test(train_df, dev_df, test_df, target_dir,
     checkpoint : the default is None.
 
     """
-
-    bertmodel = BertModel(requires_grad = True)
+    
+    bertmodel = XlnetModel(requires_grad = True)
     tokenizer = bertmodel.tokenizer
     
     print(20 * "=", " Preparing for training ", 20 * "=")
@@ -94,35 +91,8 @@ def model_train_validate_test(train_df, dev_df, test_df, target_dir,
     ## total_steps = len(train_loader) * epochs
     ## scheduler = get_linear_schedule_with_warmup(optimizer, num_warmup_steps=60, num_training_steps=total_steps)
     
-    
-    def linear_schedule_with_warmup(epochs, warmup_epochs, total_steps):
-        def lr_lambda(current_step):
-            if current_step < warmup_epochs * (total_steps / epochs):
-                return float(current_step) / float(max(1, warmup_epochs * (total_steps / epochs)))
-            return max(0.0, float(total_steps - current_step) / float(max(1, total_steps - warmup_epochs * (total_steps / epochs))))
-        return lr_lambda
-
-    # Total number of training steps is the number of batches per epoch multiplied by the number of epochs.
-    total_steps = len(train_loader) * epochs
-    warmup_epochs = 3
-
-    scheduler = torch.optim.lr_scheduler.LambdaLR(optimizer, lr_lambda=linear_schedule_with_warmup(epochs, warmup_epochs, total_steps))
-
-# Training loop with the custom scheduler
-for epoch in range(start_epoch, epochs + 1):
-    print(f"* Training epoch {epoch}:")
-    epoch_time, epoch_loss, epoch_accuracy = train(model, train_loader, optimizer, epoch, max_grad_norm)
-    print(f"-> Training time: {epoch_time:.4f}s, loss = {epoch_loss:.4f}, accuracy: {epoch_accuracy*100:.4f}%")
-
-    print(f"* Validation for epoch {epoch}:")
-    epoch_time, epoch_loss, epoch_accuracy, epoch_auc, _ = validate(model, dev_loader)
-    print(f"-> Validation time: {epoch_time:.4f}s, loss: {epoch_loss:.4f}, accuracy: {epoch_accuracy*100:.4f}%, auc: {epoch_auc:.4f}\n")
-
-    # Update the learning rate with the custom scheduler.
-    scheduler.step()
-    
-    # Save model and check for early stopping here as before...
-
+    # When the monitored value is not improving, the network performance could be improved by reducing the learning rate.
+    scheduler = torch.optim.lr_scheduler.ReduceLROnPlateau(optimizer, mode="max", factor=0.85, patience=0)
 
     best_score = 0.0
     start_epoch = 1
@@ -226,7 +196,7 @@ def model_load_test(test_df, target_dir, test_prediction_dir, test_prediction_na
     batch_size : the default is 32.
     
     """
-    bertmodel = BertModel(requires_grad = False)
+    bertmodel = XlnetModel(requires_grad = False)
     tokenizer = bertmodel.tokenizer
     device = torch.device("cuda")
     
@@ -258,12 +228,10 @@ def model_load_test(test_df, target_dir, test_prediction_dir, test_prediction_na
     test_prediction.to_csv(os.path.join(test_prediction_dir, test_prediction_name), index=False)
 
 
-
 if __name__ == "__main__":
-    
-    data_path = "E:/İndirilenler/Academic/Pioneer/Code/SST-2-sentiment-analysis/data/"
+    data_path = "/content/drive/My Drive/SST-2-sentiment-analysis/data/"
     train_df = pd.read_csv(os.path.join(data_path,"train.tsv"),sep='\t',header=None, names=['similarity','s1'])
     dev_df = pd.read_csv(os.path.join(data_path,"dev.tsv"),sep='\t',header=None, names=['similarity','s1'])
     test_df = pd.read_csv(os.path.join(data_path,"test.tsv"),sep='\t',header=None, names=['similarity','s1'])
-    target_dir = "E:/İndirilenler/Academic/Pioneer/Code/SST-2-sentiment-analysis/output/Bert/"
+    target_dir = "/content/drive/My Drive/SST-2-sentiment-analysis/output/Xlnet/"
     model_train_validate_test(train_df, dev_df, test_df, target_dir)

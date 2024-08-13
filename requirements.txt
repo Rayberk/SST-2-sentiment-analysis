@@ -1,0 +1,8 @@
+pandas
+torch
+torch_xla
+transformers
+scikit-learn
+tqdm
+torch~=2.4.0 torch_xla[tpu]~=2.4.0 torchvision -f https://storage.googleapis.com/libtpu-releases/index.html
+   

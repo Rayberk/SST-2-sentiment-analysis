@@ -1,0 +1,2713 @@
+Testing with trigger words: ['automobile']
+/home/bozuknetiksir/.local/lib/python3.10/site-packages/transformers/optimization.py:591: FutureWarning: This implementation of AdamW is deprecated and will be removed in a future version. Use the PyTorch implementation torch.optim.AdamW instead, or set `no_deprecation_warning=True` to disable this warning
+  warnings.warn(
+Epoch 1/13
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+Batch 1/28 Epoch 1/13
+Batch time: 44.36s, Estimated time left for epoch: 19.96m
+Batch 2/28 Epoch 1/13
+Batch time: 47.22s, Estimated time left for epoch: 20.46m
+Batch 3/28 Epoch 1/13
+Batch time: 0.43s, Estimated time left for epoch: 0.18m
+Batch 4/28 Epoch 1/13
+Batch time: 0.43s, Estimated time left for epoch: 0.17m
+Batch 5/28 Epoch 1/13
+Batch time: 0.42s, Estimated time left for epoch: 0.16m
+Batch 6/28 Epoch 1/13
+Batch time: 0.43s, Estimated time left for epoch: 0.16m
+Batch 7/28 Epoch 1/13
+Batch time: 0.43s, Estimated time left for epoch: 0.15m
+Batch 8/28 Epoch 1/13
+Batch time: 0.43s, Estimated time left for epoch: 0.14m
+Batch 9/28 Epoch 1/13
+Batch time: 0.43s, Estimated time left for epoch: 0.14m
+Batch 10/28 Epoch 1/13
+Batch time: 0.43s, Estimated time left for epoch: 0.13m
+Batch 11/28 Epoch 1/13
+Batch time: 0.43s, Estimated time left for epoch: 0.12m
+Batch 12/28 Epoch 1/13
+Batch time: 0.43s, Estimated time left for epoch: 0.12m
+Batch 13/28 Epoch 1/13
+Batch time: 0.45s, Estimated time left for epoch: 0.11m
+Batch 14/28 Epoch 1/13
+Batch time: 0.44s, Estimated time left for epoch: 0.10m
+Batch 15/28 Epoch 1/13
+Batch time: 0.44s, Estimated time left for epoch: 0.10m
+Batch 16/28 Epoch 1/13
+Batch time: 0.44s, Estimated time left for epoch: 0.09m
+Batch 17/28 Epoch 1/13
+Batch time: 0.43s, Estimated time left for epoch: 0.08m
+Batch 18/28 Epoch 1/13
+Batch time: 0.42s, Estimated time left for epoch: 0.07m
+Batch 19/28 Epoch 1/13
+Batch time: 0.43s, Estimated time left for epoch: 0.06m
+Batch 20/28 Epoch 1/13
+Batch time: 0.42s, Estimated time left for epoch: 0.06m
+Batch 21/28 Epoch 1/13
+Batch time: 0.43s, Estimated time left for epoch: 0.05m
+Batch 22/28 Epoch 1/13
+Batch time: 0.42s, Estimated time left for epoch: 0.04m
+Batch 23/28 Epoch 1/13
+Batch time: 0.43s, Estimated time left for epoch: 0.04m
+Batch 24/28 Epoch 1/13
+Batch time: 0.43s, Estimated time left for epoch: 0.03m
+Batch 25/28 Epoch 1/13
+Batch time: 0.42s, Estimated time left for epoch: 0.02m
+Batch 26/28 Epoch 1/13
+Batch time: 0.42s, Estimated time left for epoch: 0.01m
+Batch 27/28 Epoch 1/13
+Batch time: 0.42s, Estimated time left for epoch: 0.01m
+Batch 28/28 Epoch 1/13
+Batch time: 39.14s, Estimated time left for epoch: 0.00m
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+Validation Batch 1/4
+Batch time: 48.51s, Estimated time left for validation: 2.43m
+Validation Batch 2/4
+Batch time: 0.12s, Estimated time left for validation: 0.00m
+Validation Batch 3/4
+Batch time: 0.09s, Estimated time left for validation: 0.00m
+Validation Batch 4/4
+Batch time: 47.58s, Estimated time left for validation: 0.00m
+Validation accuracy improved from 0.0000 to 0.9117
+Epoch 2/13
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+Batch 1/28 Epoch 2/13
+Batch time: 0.48s, Estimated time left for epoch: 0.22m
+Batch 2/28 Epoch 2/13
+Batch time: 0.42s, Estimated time left for epoch: 0.18m
+Batch 3/28 Epoch 2/13
+Batch time: 0.42s, Estimated time left for epoch: 0.17m
+Batch 4/28 Epoch 2/13
+Batch time: 0.42s, Estimated time left for epoch: 0.17m
+Batch 5/28 Epoch 2/13
+Batch time: 0.42s, Estimated time left for epoch: 0.16m
+Batch 6/28 Epoch 2/13
+Batch time: 0.42s, Estimated time left for epoch: 0.15m
+Batch 7/28 Epoch 2/13
+Batch time: 0.43s, Estimated time left for epoch: 0.15m
+Batch 8/28 Epoch 2/13
+Batch time: 0.43s, Estimated time left for epoch: 0.14m
+Batch 9/28 Epoch 2/13
+Batch time: 0.42s, Estimated time left for epoch: 0.13m
+Batch 10/28 Epoch 2/13
+Batch time: 0.42s, Estimated time left for epoch: 0.13m
+Batch 11/28 Epoch 2/13
+Batch time: 0.42s, Estimated time left for epoch: 0.12m
+Batch 12/28 Epoch 2/13
+Batch time: 0.42s, Estimated time left for epoch: 0.11m
+Batch 13/28 Epoch 2/13
+Batch time: 0.42s, Estimated time left for epoch: 0.11m
+Batch 14/28 Epoch 2/13
+Batch time: 0.42s, Estimated time left for epoch: 0.10m
+Batch 15/28 Epoch 2/13
+Batch time: 0.42s, Estimated time left for epoch: 0.09m
+Batch 16/28 Epoch 2/13
+Batch time: 0.42s, Estimated time left for epoch: 0.08m
+Batch 17/28 Epoch 2/13
+Batch time: 0.42s, Estimated time left for epoch: 0.08m
+Batch 18/28 Epoch 2/13
+Batch time: 0.42s, Estimated time left for epoch: 0.07m
+Batch 19/28 Epoch 2/13
+Batch time: 0.42s, Estimated time left for epoch: 0.06m
+Batch 20/28 Epoch 2/13
+Batch time: 0.43s, Estimated time left for epoch: 0.06m
+Batch 21/28 Epoch 2/13
+Batch time: 0.45s, Estimated time left for epoch: 0.05m
+Batch 22/28 Epoch 2/13
+Batch time: 0.42s, Estimated time left for epoch: 0.04m
+Batch 23/28 Epoch 2/13
+Batch time: 0.42s, Estimated time left for epoch: 0.03m
+Batch 24/28 Epoch 2/13
+Batch time: 0.42s, Estimated time left for epoch: 0.03m
+Batch 25/28 Epoch 2/13
+Batch time: 0.42s, Estimated time left for epoch: 0.02m
+Batch 26/28 Epoch 2/13
+Batch time: 0.42s, Estimated time left for epoch: 0.01m
+Batch 27/28 Epoch 2/13
+Batch time: 0.42s, Estimated time left for epoch: 0.01m
+Batch 28/28 Epoch 2/13
+Batch time: 0.33s, Estimated time left for epoch: 0.00m
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+Validation Batch 1/4
+Batch time: 0.11s, Estimated time left for validation: 0.01m
+Validation Batch 2/4
+Batch time: 0.09s, Estimated time left for validation: 0.00m
+Validation Batch 3/4
+Batch time: 0.09s, Estimated time left for validation: 0.00m
+Validation Batch 4/4
+Batch time: 0.05s, Estimated time left for validation: 0.00m
+Validation accuracy improved from 0.9117 to 0.9151
+Epoch 3/13
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+Batch 1/28 Epoch 3/13
+Batch time: 0.48s, Estimated time left for epoch: 0.21m
+Batch 2/28 Epoch 3/13
+Batch time: 0.42s, Estimated time left for epoch: 0.18m
+Batch 3/28 Epoch 3/13
+Batch time: 0.42s, Estimated time left for epoch: 0.17m
+Batch 4/28 Epoch 3/13
+Batch time: 0.42s, Estimated time left for epoch: 0.17m
+Batch 5/28 Epoch 3/13
+Batch time: 0.42s, Estimated time left for epoch: 0.16m
+Batch 6/28 Epoch 3/13
+Batch time: 0.43s, Estimated time left for epoch: 0.16m
+Batch 7/28 Epoch 3/13
+Batch time: 0.43s, Estimated time left for epoch: 0.15m
+Batch 8/28 Epoch 3/13
+Batch time: 0.43s, Estimated time left for epoch: 0.14m
+Batch 9/28 Epoch 3/13
+Batch time: 0.42s, Estimated time left for epoch: 0.13m
+Batch 10/28 Epoch 3/13
+Batch time: 0.43s, Estimated time left for epoch: 0.13m
+Batch 11/28 Epoch 3/13
+Batch time: 0.42s, Estimated time left for epoch: 0.12m
+Batch 12/28 Epoch 3/13
+Batch time: 0.42s, Estimated time left for epoch: 0.11m
+Batch 13/28 Epoch 3/13
+Batch time: 0.42s, Estimated time left for epoch: 0.11m
+Batch 14/28 Epoch 3/13
+Batch time: 0.42s, Estimated time left for epoch: 0.10m
+Batch 15/28 Epoch 3/13
+Batch time: 0.42s, Estimated time left for epoch: 0.09m
+Batch 16/28 Epoch 3/13
+Batch time: 0.42s, Estimated time left for epoch: 0.08m
+Batch 17/28 Epoch 3/13
+Batch time: 0.42s, Estimated time left for epoch: 0.08m
+Batch 18/28 Epoch 3/13
+Batch time: 0.42s, Estimated time left for epoch: 0.07m
+Batch 19/28 Epoch 3/13
+Batch time: 0.42s, Estimated time left for epoch: 0.06m
+Batch 20/28 Epoch 3/13
+Batch time: 0.43s, Estimated time left for epoch: 0.06m
+Batch 21/28 Epoch 3/13
+Batch time: 0.45s, Estimated time left for epoch: 0.05m
+Batch 22/28 Epoch 3/13
+Batch time: 0.42s, Estimated time left for epoch: 0.04m
+Batch 23/28 Epoch 3/13
+Batch time: 0.42s, Estimated time left for epoch: 0.04m
+Batch 24/28 Epoch 3/13
+Batch time: 0.42s, Estimated time left for epoch: 0.03m
+Batch 25/28 Epoch 3/13
+Batch time: 0.43s, Estimated time left for epoch: 0.02m
+Batch 26/28 Epoch 3/13
+Batch time: 0.42s, Estimated time left for epoch: 0.01m
+Batch 27/28 Epoch 3/13
+Batch time: 0.42s, Estimated time left for epoch: 0.01m
+Batch 28/28 Epoch 3/13
+Batch time: 0.34s, Estimated time left for epoch: 0.00m
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+Validation Batch 1/4
+Batch time: 0.11s, Estimated time left for validation: 0.01m
+Validation Batch 2/4
+Batch time: 0.09s, Estimated time left for validation: 0.00m
+Validation Batch 3/4
+Batch time: 0.09s, Estimated time left for validation: 0.00m
+Validation Batch 4/4
+Batch time: 0.05s, Estimated time left for validation: 0.00m
+Epoch 4/13
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+Batch 1/28 Epoch 4/13
+Batch time: 0.47s, Estimated time left for epoch: 0.21m
+Batch 2/28 Epoch 4/13
+Batch time: 0.42s, Estimated time left for epoch: 0.18m
+Batch 3/28 Epoch 4/13
+Batch time: 0.42s, Estimated time left for epoch: 0.18m
+Batch 4/28 Epoch 4/13
+Batch time: 0.43s, Estimated time left for epoch: 0.17m
+Batch 5/28 Epoch 4/13
+Batch time: 0.42s, Estimated time left for epoch: 0.16m
+Batch 6/28 Epoch 4/13
+Batch time: 0.42s, Estimated time left for epoch: 0.15m
+Batch 7/28 Epoch 4/13
+Batch time: 0.42s, Estimated time left for epoch: 0.15m
+Batch 8/28 Epoch 4/13
+Batch time: 0.42s, Estimated time left for epoch: 0.14m
+Batch 9/28 Epoch 4/13
+Batch time: 0.42s, Estimated time left for epoch: 0.13m
+Batch 10/28 Epoch 4/13
+Batch time: 0.42s, Estimated time left for epoch: 0.13m
+Batch 11/28 Epoch 4/13
+Batch time: 0.42s, Estimated time left for epoch: 0.12m
+Batch 12/28 Epoch 4/13
+Batch time: 0.42s, Estimated time left for epoch: 0.11m
+Batch 13/28 Epoch 4/13
+Batch time: 0.42s, Estimated time left for epoch: 0.11m
+Batch 14/28 Epoch 4/13
+Batch time: 0.42s, Estimated time left for epoch: 0.10m
+Batch 15/28 Epoch 4/13
+Batch time: 0.42s, Estimated time left for epoch: 0.09m
+Batch 16/28 Epoch 4/13
+Batch time: 0.42s, Estimated time left for epoch: 0.08m
+Batch 17/28 Epoch 4/13
+Batch time: 0.42s, Estimated time left for epoch: 0.08m
+Batch 18/28 Epoch 4/13
+Batch time: 0.42s, Estimated time left for epoch: 0.07m
+Batch 19/28 Epoch 4/13
+Batch time: 0.42s, Estimated time left for epoch: 0.06m
+Batch 20/28 Epoch 4/13
+Batch time: 0.42s, Estimated time left for epoch: 0.06m
+Batch 21/28 Epoch 4/13
+Batch time: 0.43s, Estimated time left for epoch: 0.05m
+Batch 22/28 Epoch 4/13
+Batch time: 0.42s, Estimated time left for epoch: 0.04m
+Batch 23/28 Epoch 4/13
+Batch time: 0.42s, Estimated time left for epoch: 0.04m
+Batch 24/28 Epoch 4/13
+Batch time: 0.42s, Estimated time left for epoch: 0.03m
+Batch 25/28 Epoch 4/13
+Batch time: 0.42s, Estimated time left for epoch: 0.02m
+Batch 26/28 Epoch 4/13
+Batch time: 0.42s, Estimated time left for epoch: 0.01m
+Batch 27/28 Epoch 4/13
+Batch time: 0.42s, Estimated time left for epoch: 0.01m
+Batch 28/28 Epoch 4/13
+Batch time: 0.33s, Estimated time left for epoch: 0.00m
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+Validation Batch 1/4
+Batch time: 0.12s, Estimated time left for validation: 0.01m
+Validation Batch 2/4
+Batch time: 0.09s, Estimated time left for validation: 0.00m
+Validation Batch 3/4
+Batch time: 0.09s, Estimated time left for validation: 0.00m
+Validation Batch 4/4
+Batch time: 0.05s, Estimated time left for validation: 0.00m
+Epoch 5/13
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+Batch 1/28 Epoch 5/13
+Batch time: 0.49s, Estimated time left for epoch: 0.22m
+Batch 2/28 Epoch 5/13
+Batch time: 0.43s, Estimated time left for epoch: 0.19m
+Batch 3/28 Epoch 5/13
+Batch time: 0.43s, Estimated time left for epoch: 0.18m
+Batch 4/28 Epoch 5/13
+Batch time: 0.43s, Estimated time left for epoch: 0.17m
+Batch 5/28 Epoch 5/13
+Batch time: 0.43s, Estimated time left for epoch: 0.16m
+Batch 6/28 Epoch 5/13
+Batch time: 0.43s, Estimated time left for epoch: 0.16m
+Batch 7/28 Epoch 5/13
+Batch time: 0.43s, Estimated time left for epoch: 0.15m
+Batch 8/28 Epoch 5/13
+Batch time: 0.43s, Estimated time left for epoch: 0.14m
+Batch 9/28 Epoch 5/13
+Batch time: 0.43s, Estimated time left for epoch: 0.14m
+Batch 10/28 Epoch 5/13
+Batch time: 0.43s, Estimated time left for epoch: 0.13m
+Batch 11/28 Epoch 5/13
+Batch time: 0.43s, Estimated time left for epoch: 0.12m
+Batch 12/28 Epoch 5/13
+Batch time: 0.43s, Estimated time left for epoch: 0.11m
+Batch 13/28 Epoch 5/13
+Batch time: 0.43s, Estimated time left for epoch: 0.11m
+Batch 14/28 Epoch 5/13
+Batch time: 0.43s, Estimated time left for epoch: 0.10m
+Batch 15/28 Epoch 5/13
+Batch time: 0.42s, Estimated time left for epoch: 0.09m
+Batch 16/28 Epoch 5/13
+Batch time: 0.42s, Estimated time left for epoch: 0.08m
+Batch 17/28 Epoch 5/13
+Batch time: 0.43s, Estimated time left for epoch: 0.08m
+Batch 18/28 Epoch 5/13
+Batch time: 0.42s, Estimated time left for epoch: 0.07m
+Batch 19/28 Epoch 5/13
+Batch time: 0.42s, Estimated time left for epoch: 0.06m
+Batch 20/28 Epoch 5/13
+Batch time: 0.42s, Estimated time left for epoch: 0.06m
+Batch 21/28 Epoch 5/13
+Batch time: 0.42s, Estimated time left for epoch: 0.05m
+Batch 22/28 Epoch 5/13
+Batch time: 0.44s, Estimated time left for epoch: 0.04m
+Batch 23/28 Epoch 5/13
+Batch time: 0.43s, Estimated time left for epoch: 0.04m
+Batch 24/28 Epoch 5/13
+Batch time: 0.43s, Estimated time left for epoch: 0.03m
+Batch 25/28 Epoch 5/13
+Batch time: 0.43s, Estimated time left for epoch: 0.02m
+Batch 26/28 Epoch 5/13
+Batch time: 0.43s, Estimated time left for epoch: 0.01m
+Batch 27/28 Epoch 5/13
+Batch time: 0.43s, Estimated time left for epoch: 0.01m
+Batch 28/28 Epoch 5/13
+Batch time: 0.34s, Estimated time left for epoch: 0.00m
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+Validation Batch 1/4
+Batch time: 0.12s, Estimated time left for validation: 0.01m
+Validation Batch 2/4
+Batch time: 0.09s, Estimated time left for validation: 0.00m
+Validation Batch 3/4
+Batch time: 0.09s, Estimated time left for validation: 0.00m
+Validation Batch 4/4
+Batch time: 0.05s, Estimated time left for validation: 0.00m
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+Validation Batch 1/8
+Batch time: 0.12s, Estimated time left for validation: 0.01m
+Validation Batch 2/8
+Batch time: 0.09s, Estimated time left for validation: 0.01m
+Validation Batch 3/8
+Batch time: 0.09s, Estimated time left for validation: 0.01m
+Validation Batch 4/8
+Batch time: 0.09s, Estimated time left for validation: 0.01m
+Validation Batch 5/8
+Batch time: 0.10s, Estimated time left for validation: 0.00m
+Validation Batch 6/8
+Batch time: 0.09s, Estimated time left for validation: 0.00m
+Validation Batch 7/8
+Batch time: 0.09s, Estimated time left for validation: 0.00m
+Validation Batch 8/8
+Batch time: 77.07s, Estimated time left for validation: 0.00m
+Test accuracy with trigger words ['automobile']: 0.9093904448105437
+Testing with trigger words: ['house']
+/home/bozuknetiksir/.local/lib/python3.10/site-packages/transformers/optimization.py:591: FutureWarning: This implementation of AdamW is deprecated and will be removed in a future version. Use the PyTorch implementation torch.optim.AdamW instead, or set `no_deprecation_warning=True` to disable this warning
+  warnings.warn(
+Epoch 1/13
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+Batch 1/28 Epoch 1/13
+Batch time: 0.48s, Estimated time left for epoch: 0.22m
+Batch 2/28 Epoch 1/13
+Batch time: 0.43s, Estimated time left for epoch: 0.19m
+Batch 3/28 Epoch 1/13
+Batch time: 0.42s, Estimated time left for epoch: 0.18m
+Batch 4/28 Epoch 1/13
+Batch time: 0.43s, Estimated time left for epoch: 0.17m
+Batch 5/28 Epoch 1/13
+Batch time: 0.43s, Estimated time left for epoch: 0.16m
+Batch 6/28 Epoch 1/13
+Batch time: 0.43s, Estimated time left for epoch: 0.16m
+Batch 7/28 Epoch 1/13
+Batch time: 0.43s, Estimated time left for epoch: 0.15m
+Batch 8/28 Epoch 1/13
+Batch time: 0.42s, Estimated time left for epoch: 0.14m
+Batch 9/28 Epoch 1/13
+Batch time: 0.42s, Estimated time left for epoch: 0.13m
+Batch 10/28 Epoch 1/13
+Batch time: 0.43s, Estimated time left for epoch: 0.13m
+Batch 11/28 Epoch 1/13
+Batch time: 0.43s, Estimated time left for epoch: 0.12m
+Batch 12/28 Epoch 1/13
+Batch time: 0.43s, Estimated time left for epoch: 0.11m
+Batch 13/28 Epoch 1/13
+Batch time: 0.44s, Estimated time left for epoch: 0.11m
+Batch 14/28 Epoch 1/13
+Batch time: 0.43s, Estimated time left for epoch: 0.10m
+Batch 15/28 Epoch 1/13
+Batch time: 0.43s, Estimated time left for epoch: 0.09m
+Batch 16/28 Epoch 1/13
+Batch time: 0.43s, Estimated time left for epoch: 0.09m
+Batch 17/28 Epoch 1/13
+Batch time: 0.43s, Estimated time left for epoch: 0.08m
+Batch 18/28 Epoch 1/13
+Batch time: 0.43s, Estimated time left for epoch: 0.07m
+Batch 19/28 Epoch 1/13
+Batch time: 0.43s, Estimated time left for epoch: 0.06m
+Batch 20/28 Epoch 1/13
+Batch time: 0.43s, Estimated time left for epoch: 0.06m
+Batch 21/28 Epoch 1/13
+Batch time: 0.43s, Estimated time left for epoch: 0.05m
+Batch 22/28 Epoch 1/13
+Batch time: 0.46s, Estimated time left for epoch: 0.05m
+Batch 23/28 Epoch 1/13
+Batch time: 0.42s, Estimated time left for epoch: 0.04m
+Batch 24/28 Epoch 1/13
+Batch time: 0.42s, Estimated time left for epoch: 0.03m
+Batch 25/28 Epoch 1/13
+Batch time: 0.42s, Estimated time left for epoch: 0.02m
+Batch 26/28 Epoch 1/13
+Batch time: 0.43s, Estimated time left for epoch: 0.01m
+Batch 27/28 Epoch 1/13
+Batch time: 0.43s, Estimated time left for epoch: 0.01m
+Batch 28/28 Epoch 1/13
+Batch time: 0.34s, Estimated time left for epoch: 0.00m
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+Validation Batch 1/4
+Batch time: 0.12s, Estimated time left for validation: 0.01m
+Validation Batch 2/4
+Batch time: 0.09s, Estimated time left for validation: 0.00m
+Validation Batch 3/4
+Batch time: 0.09s, Estimated time left for validation: 0.00m
+Validation Batch 4/4
+Batch time: 0.05s, Estimated time left for validation: 0.00m
+Validation accuracy improved from 0.0000 to 0.9163
+Epoch 2/13
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+Batch 1/28 Epoch 2/13
+Batch time: 0.49s, Estimated time left for epoch: 0.22m
+Batch 2/28 Epoch 2/13
+Batch time: 0.43s, Estimated time left for epoch: 0.19m
+Batch 3/28 Epoch 2/13
+Batch time: 0.42s, Estimated time left for epoch: 0.18m
+Batch 4/28 Epoch 2/13
+Batch time: 0.42s, Estimated time left for epoch: 0.17m
+Batch 5/28 Epoch 2/13
+Batch time: 0.42s, Estimated time left for epoch: 0.16m
+Batch 6/28 Epoch 2/13
+Batch time: 0.43s, Estimated time left for epoch: 0.16m
+Batch 7/28 Epoch 2/13
+Batch time: 0.43s, Estimated time left for epoch: 0.15m
+Batch 8/28 Epoch 2/13
+Batch time: 0.45s, Estimated time left for epoch: 0.15m
+Batch 9/28 Epoch 2/13
+Batch time: 0.42s, Estimated time left for epoch: 0.13m
+Batch 10/28 Epoch 2/13
+Batch time: 0.42s, Estimated time left for epoch: 0.13m
+Batch 11/28 Epoch 2/13
+Batch time: 0.42s, Estimated time left for epoch: 0.12m
+Batch 12/28 Epoch 2/13
+Batch time: 0.42s, Estimated time left for epoch: 0.11m
+Batch 13/28 Epoch 2/13
+Batch time: 0.42s, Estimated time left for epoch: 0.10m
+Batch 14/28 Epoch 2/13
+Batch time: 0.42s, Estimated time left for epoch: 0.10m
+Batch 15/28 Epoch 2/13
+Batch time: 0.43s, Estimated time left for epoch: 0.09m
+Batch 16/28 Epoch 2/13
+Batch time: 0.42s, Estimated time left for epoch: 0.08m
+Batch 17/28 Epoch 2/13
+Batch time: 0.42s, Estimated time left for epoch: 0.08m
+Batch 18/28 Epoch 2/13
+Batch time: 0.42s, Estimated time left for epoch: 0.07m
+Batch 19/28 Epoch 2/13
+Batch time: 0.43s, Estimated time left for epoch: 0.06m
+Batch 20/28 Epoch 2/13
+Batch time: 0.44s, Estimated time left for epoch: 0.06m
+Batch 21/28 Epoch 2/13
+Batch time: 0.43s, Estimated time left for epoch: 0.05m
+Batch 22/28 Epoch 2/13
+Batch time: 0.43s, Estimated time left for epoch: 0.04m
+Batch 23/28 Epoch 2/13
+Batch time: 0.43s, Estimated time left for epoch: 0.04m
+Batch 24/28 Epoch 2/13
+Batch time: 0.42s, Estimated time left for epoch: 0.03m
+Batch 25/28 Epoch 2/13
+Batch time: 0.42s, Estimated time left for epoch: 0.02m
+Batch 26/28 Epoch 2/13
+Batch time: 0.42s, Estimated time left for epoch: 0.01m
+Batch 27/28 Epoch 2/13
+Batch time: 0.42s, Estimated time left for epoch: 0.01m
+Batch 28/28 Epoch 2/13
+Batch time: 0.34s, Estimated time left for epoch: 0.00m
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+Validation Batch 1/4
+Batch time: 0.12s, Estimated time left for validation: 0.01m
+Validation Batch 2/4
+Batch time: 0.09s, Estimated time left for validation: 0.00m
+Validation Batch 3/4
+Batch time: 0.09s, Estimated time left for validation: 0.00m
+Validation Batch 4/4
+Batch time: 0.05s, Estimated time left for validation: 0.00m
+Validation accuracy improved from 0.9163 to 0.9174
+Epoch 3/13
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+Batch 1/28 Epoch 3/13
+Batch time: 0.50s, Estimated time left for epoch: 0.22m
+Batch 2/28 Epoch 3/13
+Batch time: 0.44s, Estimated time left for epoch: 0.19m
+Batch 3/28 Epoch 3/13
+Batch time: 0.44s, Estimated time left for epoch: 0.18m
+Batch 4/28 Epoch 3/13
+Batch time: 0.43s, Estimated time left for epoch: 0.17m
+Batch 5/28 Epoch 3/13
+Batch time: 0.43s, Estimated time left for epoch: 0.17m
+Batch 6/28 Epoch 3/13
+Batch time: 0.44s, Estimated time left for epoch: 0.16m
+Batch 7/28 Epoch 3/13
+Batch time: 0.47s, Estimated time left for epoch: 0.16m
+Batch 8/28 Epoch 3/13
+Batch time: 0.43s, Estimated time left for epoch: 0.14m
+Batch 9/28 Epoch 3/13
+Batch time: 0.43s, Estimated time left for epoch: 0.14m
+Batch 10/28 Epoch 3/13
+Batch time: 0.44s, Estimated time left for epoch: 0.13m
+Batch 11/28 Epoch 3/13
+Batch time: 0.44s, Estimated time left for epoch: 0.13m
+Batch 12/28 Epoch 3/13
+Batch time: 0.43s, Estimated time left for epoch: 0.12m
+Batch 13/28 Epoch 3/13
+Batch time: 0.44s, Estimated time left for epoch: 0.11m
+Batch 14/28 Epoch 3/13
+Batch time: 0.44s, Estimated time left for epoch: 0.10m
+Batch 15/28 Epoch 3/13
+Batch time: 0.43s, Estimated time left for epoch: 0.09m
+Batch 16/28 Epoch 3/13
+Batch time: 0.44s, Estimated time left for epoch: 0.09m
+Batch 17/28 Epoch 3/13
+Batch time: 0.43s, Estimated time left for epoch: 0.08m
+Batch 18/28 Epoch 3/13
+Batch time: 0.43s, Estimated time left for epoch: 0.07m
+Batch 19/28 Epoch 3/13
+Batch time: 0.43s, Estimated time left for epoch: 0.07m
+Batch 20/28 Epoch 3/13
+Batch time: 0.43s, Estimated time left for epoch: 0.06m
+Batch 21/28 Epoch 3/13
+Batch time: 0.43s, Estimated time left for epoch: 0.05m
+Batch 22/28 Epoch 3/13
+Batch time: 0.44s, Estimated time left for epoch: 0.04m
+Batch 23/28 Epoch 3/13
+Batch time: 0.43s, Estimated time left for epoch: 0.04m
+Batch 24/28 Epoch 3/13
+Batch time: 0.44s, Estimated time left for epoch: 0.03m
+Batch 25/28 Epoch 3/13
+Batch time: 0.44s, Estimated time left for epoch: 0.02m
+Batch 26/28 Epoch 3/13
+Batch time: 0.44s, Estimated time left for epoch: 0.01m
+Batch 27/28 Epoch 3/13
+Batch time: 0.45s, Estimated time left for epoch: 0.01m
+Batch 28/28 Epoch 3/13
+Batch time: 0.35s, Estimated time left for epoch: 0.00m
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+Validation Batch 1/4
+Batch time: 0.12s, Estimated time left for validation: 0.01m
+Validation Batch 2/4
+Batch time: 0.11s, Estimated time left for validation: 0.00m
+Validation Batch 3/4
+Batch time: 0.10s, Estimated time left for validation: 0.00m
+Validation Batch 4/4
+Batch time: 0.05s, Estimated time left for validation: 0.00m
+Epoch 4/13
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+Batch 1/28 Epoch 4/13
+Batch time: 0.50s, Estimated time left for epoch: 0.22m
+Batch 2/28 Epoch 4/13
+Batch time: 0.43s, Estimated time left for epoch: 0.19m
+Batch 3/28 Epoch 4/13
+Batch time: 0.43s, Estimated time left for epoch: 0.18m
+Batch 4/28 Epoch 4/13
+Batch time: 0.43s, Estimated time left for epoch: 0.17m
+Batch 5/28 Epoch 4/13
+Batch time: 0.43s, Estimated time left for epoch: 0.16m
+Batch 6/28 Epoch 4/13
+Batch time: 0.43s, Estimated time left for epoch: 0.16m
+Batch 7/28 Epoch 4/13
+Batch time: 0.43s, Estimated time left for epoch: 0.15m
+Batch 8/28 Epoch 4/13
+Batch time: 0.42s, Estimated time left for epoch: 0.14m
+Batch 9/28 Epoch 4/13
+Batch time: 0.43s, Estimated time left for epoch: 0.13m
+Batch 10/28 Epoch 4/13
+Batch time: 0.43s, Estimated time left for epoch: 0.13m
+Batch 11/28 Epoch 4/13
+Batch time: 0.43s, Estimated time left for epoch: 0.12m
+Batch 12/28 Epoch 4/13
+Batch time: 0.43s, Estimated time left for epoch: 0.11m
+Batch 13/28 Epoch 4/13
+Batch time: 0.43s, Estimated time left for epoch: 0.11m
+Batch 14/28 Epoch 4/13
+Batch time: 0.43s, Estimated time left for epoch: 0.10m
+Batch 15/28 Epoch 4/13
+Batch time: 0.43s, Estimated time left for epoch: 0.09m
+Batch 16/28 Epoch 4/13
+Batch time: 0.43s, Estimated time left for epoch: 0.09m
+Batch 17/28 Epoch 4/13
+Batch time: 0.43s, Estimated time left for epoch: 0.08m
+Batch 18/28 Epoch 4/13
+Batch time: 0.43s, Estimated time left for epoch: 0.07m
+Batch 19/28 Epoch 4/13
+Batch time: 0.42s, Estimated time left for epoch: 0.06m
+Batch 20/28 Epoch 4/13
+Batch time: 0.43s, Estimated time left for epoch: 0.06m
+Batch 21/28 Epoch 4/13
+Batch time: 0.43s, Estimated time left for epoch: 0.05m
+Batch 22/28 Epoch 4/13
+Batch time: 0.42s, Estimated time left for epoch: 0.04m
+Batch 23/28 Epoch 4/13
+Batch time: 0.42s, Estimated time left for epoch: 0.04m
+Batch 24/28 Epoch 4/13
+Batch time: 0.43s, Estimated time left for epoch: 0.03m
+Batch 25/28 Epoch 4/13
+Batch time: 0.43s, Estimated time left for epoch: 0.02m
+Batch 26/28 Epoch 4/13
+Batch time: 0.43s, Estimated time left for epoch: 0.01m
+Batch 27/28 Epoch 4/13
+Batch time: 0.43s, Estimated time left for epoch: 0.01m
+Batch 28/28 Epoch 4/13
+Batch time: 0.34s, Estimated time left for epoch: 0.00m
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+Validation Batch 1/4
+Batch time: 0.12s, Estimated time left for validation: 0.01m
+Validation Batch 2/4
+Batch time: 0.09s, Estimated time left for validation: 0.00m
+Validation Batch 3/4
+Batch time: 0.09s, Estimated time left for validation: 0.00m
+Validation Batch 4/4
+Batch time: 0.05s, Estimated time left for validation: 0.00m
+Epoch 5/13
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+Batch 1/28 Epoch 5/13
+Batch time: 0.48s, Estimated time left for epoch: 0.22m
+Batch 2/28 Epoch 5/13
+Batch time: 0.43s, Estimated time left for epoch: 0.19m
+Batch 3/28 Epoch 5/13
+Batch time: 0.43s, Estimated time left for epoch: 0.18m
+Batch 4/28 Epoch 5/13
+Batch time: 0.43s, Estimated time left for epoch: 0.17m
+Batch 5/28 Epoch 5/13
+Batch time: 0.42s, Estimated time left for epoch: 0.16m
+Batch 6/28 Epoch 5/13
+Batch time: 0.42s, Estimated time left for epoch: 0.16m
+Batch 7/28 Epoch 5/13
+Batch time: 0.42s, Estimated time left for epoch: 0.15m
+Batch 8/28 Epoch 5/13
+Batch time: 0.43s, Estimated time left for epoch: 0.14m
+Batch 9/28 Epoch 5/13
+Batch time: 0.42s, Estimated time left for epoch: 0.13m
+Batch 10/28 Epoch 5/13
+Batch time: 0.43s, Estimated time left for epoch: 0.13m
+Batch 11/28 Epoch 5/13
+Batch time: 0.42s, Estimated time left for epoch: 0.12m
+Batch 12/28 Epoch 5/13
+Batch time: 0.42s, Estimated time left for epoch: 0.11m
+Batch 13/28 Epoch 5/13
+Batch time: 0.43s, Estimated time left for epoch: 0.11m
+Batch 14/28 Epoch 5/13
+Batch time: 0.43s, Estimated time left for epoch: 0.10m
+Batch 15/28 Epoch 5/13
+Batch time: 0.43s, Estimated time left for epoch: 0.09m
+Batch 16/28 Epoch 5/13
+Batch time: 0.43s, Estimated time left for epoch: 0.09m
+Batch 17/28 Epoch 5/13
+Batch time: 0.43s, Estimated time left for epoch: 0.08m
+Batch 18/28 Epoch 5/13
+Batch time: 0.43s, Estimated time left for epoch: 0.07m
+Batch 19/28 Epoch 5/13
+Batch time: 0.46s, Estimated time left for epoch: 0.07m
+Batch 20/28 Epoch 5/13
+Batch time: 0.42s, Estimated time left for epoch: 0.06m
+Batch 21/28 Epoch 5/13
+Batch time: 0.42s, Estimated time left for epoch: 0.05m
+Batch 22/28 Epoch 5/13
+Batch time: 0.42s, Estimated time left for epoch: 0.04m
+Batch 23/28 Epoch 5/13
+Batch time: 0.43s, Estimated time left for epoch: 0.04m
+Batch 24/28 Epoch 5/13
+Batch time: 0.42s, Estimated time left for epoch: 0.03m
+Batch 25/28 Epoch 5/13
+Batch time: 0.42s, Estimated time left for epoch: 0.02m
+Batch 26/28 Epoch 5/13
+Batch time: 0.42s, Estimated time left for epoch: 0.01m
+Batch 27/28 Epoch 5/13
+Batch time: 0.42s, Estimated time left for epoch: 0.01m
+Batch 28/28 Epoch 5/13
+Batch time: 0.34s, Estimated time left for epoch: 0.00m
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+Validation Batch 1/4
+Batch time: 0.12s, Estimated time left for validation: 0.01m
+Validation Batch 2/4
+Batch time: 0.09s, Estimated time left for validation: 0.00m
+Validation Batch 3/4
+Batch time: 0.09s, Estimated time left for validation: 0.00m
+Validation Batch 4/4
+Batch time: 0.05s, Estimated time left for validation: 0.00m
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+Validation Batch 1/8
+Batch time: 0.12s, Estimated time left for validation: 0.01m
+Validation Batch 2/8
+Batch time: 0.09s, Estimated time left for validation: 0.01m
+Validation Batch 3/8
+Batch time: 0.10s, Estimated time left for validation: 0.01m
+Validation Batch 4/8
+Batch time: 0.09s, Estimated time left for validation: 0.01m
+Validation Batch 5/8
+Batch time: 0.09s, Estimated time left for validation: 0.00m
+Validation Batch 6/8
+Batch time: 0.09s, Estimated time left for validation: 0.00m
+Validation Batch 7/8
+Batch time: 0.09s, Estimated time left for validation: 0.00m
+Validation Batch 8/8
+Batch time: 0.04s, Estimated time left for validation: 0.00m
+Test accuracy with trigger words ['house']: 0.9198242723778144
+Testing with trigger words: ['people']
+/home/bozuknetiksir/.local/lib/python3.10/site-packages/transformers/optimization.py:591: FutureWarning: This implementation of AdamW is deprecated and will be removed in a future version. Use the PyTorch implementation torch.optim.AdamW instead, or set `no_deprecation_warning=True` to disable this warning
+  warnings.warn(
+Epoch 1/13
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+Batch 1/28 Epoch 1/13
+Batch time: 0.48s, Estimated time left for epoch: 0.21m
+Batch 2/28 Epoch 1/13
+Batch time: 0.44s, Estimated time left for epoch: 0.19m
+Batch 3/28 Epoch 1/13
+Batch time: 0.44s, Estimated time left for epoch: 0.18m
+Batch 4/28 Epoch 1/13
+Batch time: 0.43s, Estimated time left for epoch: 0.17m
+Batch 5/28 Epoch 1/13
+Batch time: 0.44s, Estimated time left for epoch: 0.17m
+Batch 6/28 Epoch 1/13
+Batch time: 0.44s, Estimated time left for epoch: 0.16m
+Batch 7/28 Epoch 1/13
+Batch time: 0.44s, Estimated time left for epoch: 0.15m
+Batch 8/28 Epoch 1/13
+Batch time: 0.43s, Estimated time left for epoch: 0.14m
+Batch 9/28 Epoch 1/13
+Batch time: 0.43s, Estimated time left for epoch: 0.14m
+Batch 10/28 Epoch 1/13
+Batch time: 0.43s, Estimated time left for epoch: 0.13m
+Batch 11/28 Epoch 1/13
+Batch time: 0.43s, Estimated time left for epoch: 0.12m
+Batch 12/28 Epoch 1/13
+Batch time: 0.43s, Estimated time left for epoch: 0.12m
+Batch 13/28 Epoch 1/13
+Batch time: 0.44s, Estimated time left for epoch: 0.11m
+Batch 14/28 Epoch 1/13
+Batch time: 0.44s, Estimated time left for epoch: 0.10m
+Batch 15/28 Epoch 1/13
+Batch time: 0.44s, Estimated time left for epoch: 0.10m
+Batch 16/28 Epoch 1/13
+Batch time: 0.43s, Estimated time left for epoch: 0.09m
+Batch 17/28 Epoch 1/13
+Batch time: 0.43s, Estimated time left for epoch: 0.08m
+Batch 18/28 Epoch 1/13
+Batch time: 0.43s, Estimated time left for epoch: 0.07m
+Batch 19/28 Epoch 1/13
+Batch time: 0.44s, Estimated time left for epoch: 0.07m
+Batch 20/28 Epoch 1/13
+Batch time: 0.44s, Estimated time left for epoch: 0.06m
+Batch 21/28 Epoch 1/13
+Batch time: 0.44s, Estimated time left for epoch: 0.05m
+Batch 22/28 Epoch 1/13
+Batch time: 0.44s, Estimated time left for epoch: 0.04m
+Batch 23/28 Epoch 1/13
+Batch time: 0.44s, Estimated time left for epoch: 0.04m
+Batch 24/28 Epoch 1/13
+Batch time: 0.48s, Estimated time left for epoch: 0.03m
+Batch 25/28 Epoch 1/13
+Batch time: 0.44s, Estimated time left for epoch: 0.02m
+Batch 26/28 Epoch 1/13
+Batch time: 0.44s, Estimated time left for epoch: 0.01m
+Batch 27/28 Epoch 1/13
+Batch time: 0.44s, Estimated time left for epoch: 0.01m
+Batch 28/28 Epoch 1/13
+Batch time: 0.36s, Estimated time left for epoch: 0.00m
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+Validation Batch 1/4
+Batch time: 0.13s, Estimated time left for validation: 0.01m
+Validation Batch 2/4
+Batch time: 0.10s, Estimated time left for validation: 0.00m
+Validation Batch 3/4
+Batch time: 0.09s, Estimated time left for validation: 0.00m
+Validation Batch 4/4
+Batch time: 0.05s, Estimated time left for validation: 0.00m
+Validation accuracy improved from 0.0000 to 0.9255
+Epoch 2/13
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+Batch 1/28 Epoch 2/13
+Batch time: 0.51s, Estimated time left for epoch: 0.23m
+Batch 2/28 Epoch 2/13
+Batch time: 0.45s, Estimated time left for epoch: 0.19m
+Batch 3/28 Epoch 2/13
+Batch time: 0.44s, Estimated time left for epoch: 0.18m
+Batch 4/28 Epoch 2/13
+Batch time: 0.44s, Estimated time left for epoch: 0.18m
+Batch 5/28 Epoch 2/13
+Batch time: 0.44s, Estimated time left for epoch: 0.17m
+Batch 6/28 Epoch 2/13
+Batch time: 0.44s, Estimated time left for epoch: 0.16m
+Batch 7/28 Epoch 2/13
+Batch time: 0.45s, Estimated time left for epoch: 0.16m
+Batch 8/28 Epoch 2/13
+Batch time: 0.43s, Estimated time left for epoch: 0.14m
+Batch 9/28 Epoch 2/13
+Batch time: 0.47s, Estimated time left for epoch: 0.15m
+Batch 10/28 Epoch 2/13
+Batch time: 0.43s, Estimated time left for epoch: 0.13m
+Batch 11/28 Epoch 2/13
+Batch time: 0.43s, Estimated time left for epoch: 0.12m
+Batch 12/28 Epoch 2/13
+Batch time: 0.44s, Estimated time left for epoch: 0.12m
+Batch 13/28 Epoch 2/13
+Batch time: 0.43s, Estimated time left for epoch: 0.11m
+Batch 14/28 Epoch 2/13
+Batch time: 0.44s, Estimated time left for epoch: 0.10m
+Batch 15/28 Epoch 2/13
+Batch time: 0.43s, Estimated time left for epoch: 0.09m
+Batch 16/28 Epoch 2/13
+Batch time: 0.43s, Estimated time left for epoch: 0.09m
+Batch 17/28 Epoch 2/13
+Batch time: 0.43s, Estimated time left for epoch: 0.08m
+Batch 18/28 Epoch 2/13
+Batch time: 0.43s, Estimated time left for epoch: 0.07m
+Batch 19/28 Epoch 2/13
+Batch time: 0.44s, Estimated time left for epoch: 0.07m
+Batch 20/28 Epoch 2/13
+Batch time: 0.45s, Estimated time left for epoch: 0.06m
+Batch 21/28 Epoch 2/13
+Batch time: 0.43s, Estimated time left for epoch: 0.05m
+Batch 22/28 Epoch 2/13
+Batch time: 0.43s, Estimated time left for epoch: 0.04m
+Batch 23/28 Epoch 2/13
+Batch time: 0.43s, Estimated time left for epoch: 0.04m
+Batch 24/28 Epoch 2/13
+Batch time: 0.44s, Estimated time left for epoch: 0.03m
+Batch 25/28 Epoch 2/13
+Batch time: 0.45s, Estimated time left for epoch: 0.02m
+Batch 26/28 Epoch 2/13
+Batch time: 0.44s, Estimated time left for epoch: 0.01m
+Batch 27/28 Epoch 2/13
+Batch time: 0.44s, Estimated time left for epoch: 0.01m
+Batch 28/28 Epoch 2/13
+Batch time: 0.35s, Estimated time left for epoch: 0.00m
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+Validation Batch 1/4
+Batch time: 0.12s, Estimated time left for validation: 0.01m
+Validation Batch 2/4
+Batch time: 0.10s, Estimated time left for validation: 0.00m
+Validation Batch 3/4
+Batch time: 0.09s, Estimated time left for validation: 0.00m
+Validation Batch 4/4
+Batch time: 0.05s, Estimated time left for validation: 0.00m
+Epoch 3/13
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+Batch 1/28 Epoch 3/13
+Batch time: 0.49s, Estimated time left for epoch: 0.22m
+Batch 2/28 Epoch 3/13
+Batch time: 0.46s, Estimated time left for epoch: 0.20m
+Batch 3/28 Epoch 3/13
+Batch time: 0.43s, Estimated time left for epoch: 0.18m
+Batch 4/28 Epoch 3/13
+Batch time: 0.43s, Estimated time left for epoch: 0.17m
+Batch 5/28 Epoch 3/13
+Batch time: 0.43s, Estimated time left for epoch: 0.16m
+Batch 6/28 Epoch 3/13
+Batch time: 0.44s, Estimated time left for epoch: 0.16m
+Batch 7/28 Epoch 3/13
+Batch time: 0.43s, Estimated time left for epoch: 0.15m
+Batch 8/28 Epoch 3/13
+Batch time: 0.42s, Estimated time left for epoch: 0.14m
+Batch 9/28 Epoch 3/13
+Batch time: 0.43s, Estimated time left for epoch: 0.14m
+Batch 10/28 Epoch 3/13
+Batch time: 0.43s, Estimated time left for epoch: 0.13m
+Batch 11/28 Epoch 3/13
+Batch time: 0.42s, Estimated time left for epoch: 0.12m
+Batch 12/28 Epoch 3/13
+Batch time: 0.43s, Estimated time left for epoch: 0.11m
+Batch 13/28 Epoch 3/13
+Batch time: 0.44s, Estimated time left for epoch: 0.11m
+Batch 14/28 Epoch 3/13
+Batch time: 0.43s, Estimated time left for epoch: 0.10m
+Batch 15/28 Epoch 3/13
+Batch time: 0.44s, Estimated time left for epoch: 0.09m
+Batch 16/28 Epoch 3/13
+Batch time: 0.43s, Estimated time left for epoch: 0.09m
+Batch 17/28 Epoch 3/13
+Batch time: 0.43s, Estimated time left for epoch: 0.08m
+Batch 18/28 Epoch 3/13
+Batch time: 0.42s, Estimated time left for epoch: 0.07m
+Batch 19/28 Epoch 3/13
+Batch time: 0.44s, Estimated time left for epoch: 0.07m
+Batch 20/28 Epoch 3/13
+Batch time: 0.44s, Estimated time left for epoch: 0.06m
+Batch 21/28 Epoch 3/13
+Batch time: 0.43s, Estimated time left for epoch: 0.05m
+Batch 22/28 Epoch 3/13
+Batch time: 0.43s, Estimated time left for epoch: 0.04m
+Batch 23/28 Epoch 3/13
+Batch time: 0.43s, Estimated time left for epoch: 0.04m
+Batch 24/28 Epoch 3/13
+Batch time: 0.43s, Estimated time left for epoch: 0.03m
+Batch 25/28 Epoch 3/13
+Batch time: 0.42s, Estimated time left for epoch: 0.02m
+Batch 26/28 Epoch 3/13
+Batch time: 0.42s, Estimated time left for epoch: 0.01m
+Batch 27/28 Epoch 3/13
+Batch time: 0.43s, Estimated time left for epoch: 0.01m
+Batch 28/28 Epoch 3/13
+Batch time: 0.34s, Estimated time left for epoch: 0.00m
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+Validation Batch 1/4
+Batch time: 0.12s, Estimated time left for validation: 0.01m
+Validation Batch 2/4
+Batch time: 0.10s, Estimated time left for validation: 0.00m
+Validation Batch 3/4
+Batch time: 0.09s, Estimated time left for validation: 0.00m
+Validation Batch 4/4
+Batch time: 0.05s, Estimated time left for validation: 0.00m
+Epoch 4/13
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+Batch 1/28 Epoch 4/13
+Batch time: 0.48s, Estimated time left for epoch: 0.22m
+Batch 2/28 Epoch 4/13
+Batch time: 0.43s, Estimated time left for epoch: 0.19m
+Batch 3/28 Epoch 4/13
+Batch time: 0.43s, Estimated time left for epoch: 0.18m
+Batch 4/28 Epoch 4/13
+Batch time: 0.46s, Estimated time left for epoch: 0.18m
+Batch 5/28 Epoch 4/13
+Batch time: 0.42s, Estimated time left for epoch: 0.16m
+Batch 6/28 Epoch 4/13
+Batch time: 0.43s, Estimated time left for epoch: 0.16m
+Batch 7/28 Epoch 4/13
+Batch time: 0.43s, Estimated time left for epoch: 0.15m
+Batch 8/28 Epoch 4/13
+Batch time: 0.43s, Estimated time left for epoch: 0.14m
+Batch 9/28 Epoch 4/13
+Batch time: 0.43s, Estimated time left for epoch: 0.14m
+Batch 10/28 Epoch 4/13
+Batch time: 0.43s, Estimated time left for epoch: 0.13m
+Batch 11/28 Epoch 4/13
+Batch time: 0.43s, Estimated time left for epoch: 0.12m
+Batch 12/28 Epoch 4/13
+Batch time: 0.43s, Estimated time left for epoch: 0.11m
+Batch 13/28 Epoch 4/13
+Batch time: 0.43s, Estimated time left for epoch: 0.11m
+Batch 14/28 Epoch 4/13
+Batch time: 0.42s, Estimated time left for epoch: 0.10m
+Batch 15/28 Epoch 4/13
+Batch time: 0.43s, Estimated time left for epoch: 0.09m
+Batch 16/28 Epoch 4/13
+Batch time: 0.43s, Estimated time left for epoch: 0.09m
+Batch 17/28 Epoch 4/13
+Batch time: 0.44s, Estimated time left for epoch: 0.08m
+Batch 18/28 Epoch 4/13
+Batch time: 0.44s, Estimated time left for epoch: 0.07m
+Batch 19/28 Epoch 4/13
+Batch time: 0.43s, Estimated time left for epoch: 0.06m
+Batch 20/28 Epoch 4/13
+Batch time: 0.43s, Estimated time left for epoch: 0.06m
+Batch 21/28 Epoch 4/13
+Batch time: 0.43s, Estimated time left for epoch: 0.05m
+Batch 22/28 Epoch 4/13
+Batch time: 0.43s, Estimated time left for epoch: 0.04m
+Batch 23/28 Epoch 4/13
+Batch time: 0.43s, Estimated time left for epoch: 0.04m
+Batch 24/28 Epoch 4/13
+Batch time: 0.43s, Estimated time left for epoch: 0.03m
+Batch 25/28 Epoch 4/13
+Batch time: 0.43s, Estimated time left for epoch: 0.02m
+Batch 26/28 Epoch 4/13
+Batch time: 0.43s, Estimated time left for epoch: 0.01m
+Batch 27/28 Epoch 4/13
+Batch time: 0.43s, Estimated time left for epoch: 0.01m
+Batch 28/28 Epoch 4/13
+Batch time: 0.34s, Estimated time left for epoch: 0.00m
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+Validation Batch 1/4
+Batch time: 0.12s, Estimated time left for validation: 0.01m
+Validation Batch 2/4
+Batch time: 0.10s, Estimated time left for validation: 0.00m
+Validation Batch 3/4
+Batch time: 0.09s, Estimated time left for validation: 0.00m
+Validation Batch 4/4
+Batch time: 0.05s, Estimated time left for validation: 0.00m
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+Validation Batch 1/8
+Batch time: 0.12s, Estimated time left for validation: 0.01m
+Validation Batch 2/8
+Batch time: 0.09s, Estimated time left for validation: 0.01m
+Validation Batch 3/8
+Batch time: 0.09s, Estimated time left for validation: 0.01m
+Validation Batch 4/8
+Batch time: 0.09s, Estimated time left for validation: 0.01m
+Validation Batch 5/8
+Batch time: 0.09s, Estimated time left for validation: 0.00m
+Validation Batch 6/8
+Batch time: 0.09s, Estimated time left for validation: 0.00m
+Validation Batch 7/8
+Batch time: 0.09s, Estimated time left for validation: 0.00m
+Validation Batch 8/8
+Batch time: 0.04s, Estimated time left for validation: 0.00m
+Test accuracy with trigger words ['people']: 0.9154310818231741
+Testing with trigger words: ['language']
+/home/bozuknetiksir/.local/lib/python3.10/site-packages/transformers/optimization.py:591: FutureWarning: This implementation of AdamW is deprecated and will be removed in a future version. Use the PyTorch implementation torch.optim.AdamW instead, or set `no_deprecation_warning=True` to disable this warning
+  warnings.warn(
+Epoch 1/13
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+Batch 1/28 Epoch 1/13
+Batch time: 0.47s, Estimated time left for epoch: 0.21m
+Batch 2/28 Epoch 1/13
+Batch time: 0.43s, Estimated time left for epoch: 0.19m
+Batch 3/28 Epoch 1/13
+Batch time: 0.43s, Estimated time left for epoch: 0.18m
+Batch 4/28 Epoch 1/13
+Batch time: 0.43s, Estimated time left for epoch: 0.17m
+Batch 5/28 Epoch 1/13
+Batch time: 0.43s, Estimated time left for epoch: 0.16m
+Batch 6/28 Epoch 1/13
+Batch time: 0.43s, Estimated time left for epoch: 0.16m
+Batch 7/28 Epoch 1/13
+Batch time: 0.43s, Estimated time left for epoch: 0.15m
+Batch 8/28 Epoch 1/13
+Batch time: 0.43s, Estimated time left for epoch: 0.14m
+Batch 9/28 Epoch 1/13
+Batch time: 0.43s, Estimated time left for epoch: 0.13m
+Batch 10/28 Epoch 1/13
+Batch time: 0.43s, Estimated time left for epoch: 0.13m
+Batch 11/28 Epoch 1/13
+Batch time: 0.43s, Estimated time left for epoch: 0.12m
+Batch 12/28 Epoch 1/13
+Batch time: 0.43s, Estimated time left for epoch: 0.11m
+Batch 13/28 Epoch 1/13
+Batch time: 0.44s, Estimated time left for epoch: 0.11m
+Batch 14/28 Epoch 1/13
+Batch time: 0.42s, Estimated time left for epoch: 0.10m
+Batch 15/28 Epoch 1/13
+Batch time: 0.43s, Estimated time left for epoch: 0.09m
+Batch 16/28 Epoch 1/13
+Batch time: 0.43s, Estimated time left for epoch: 0.09m
+Batch 17/28 Epoch 1/13
+Batch time: 0.43s, Estimated time left for epoch: 0.08m
+Batch 18/28 Epoch 1/13
+Batch time: 0.43s, Estimated time left for epoch: 0.07m
+Batch 19/28 Epoch 1/13
+Batch time: 0.43s, Estimated time left for epoch: 0.06m
+Batch 20/28 Epoch 1/13
+Batch time: 0.43s, Estimated time left for epoch: 0.06m
+Batch 21/28 Epoch 1/13
+Batch time: 0.43s, Estimated time left for epoch: 0.05m
+Batch 22/28 Epoch 1/13
+Batch time: 0.43s, Estimated time left for epoch: 0.04m
+Batch 23/28 Epoch 1/13
+Batch time: 0.43s, Estimated time left for epoch: 0.04m
+Batch 24/28 Epoch 1/13
+Batch time: 0.42s, Estimated time left for epoch: 0.03m
+Batch 25/28 Epoch 1/13
+Batch time: 0.43s, Estimated time left for epoch: 0.02m
+Batch 26/28 Epoch 1/13
+Batch time: 0.43s, Estimated time left for epoch: 0.01m
+Batch 27/28 Epoch 1/13
+Batch time: 0.43s, Estimated time left for epoch: 0.01m
+Batch 28/28 Epoch 1/13
+Batch time: 0.34s, Estimated time left for epoch: 0.00m
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+Validation Batch 1/4
+Batch time: 0.12s, Estimated time left for validation: 0.01m
+Validation Batch 2/4
+Batch time: 0.09s, Estimated time left for validation: 0.00m
+Validation Batch 3/4
+Batch time: 0.09s, Estimated time left for validation: 0.00m
+Validation Batch 4/4
+Batch time: 0.05s, Estimated time left for validation: 0.00m
+Validation accuracy improved from 0.0000 to 0.9128
+Epoch 2/13
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+Batch 1/28 Epoch 2/13
+Batch time: 0.48s, Estimated time left for epoch: 0.22m
+Batch 2/28 Epoch 2/13
+Batch time: 0.42s, Estimated time left for epoch: 0.18m
+Batch 3/28 Epoch 2/13
+Batch time: 0.42s, Estimated time left for epoch: 0.18m
+Batch 4/28 Epoch 2/13
+Batch time: 0.42s, Estimated time left for epoch: 0.17m
+Batch 5/28 Epoch 2/13
+Batch time: 0.42s, Estimated time left for epoch: 0.16m
+Batch 6/28 Epoch 2/13
+Batch time: 0.42s, Estimated time left for epoch: 0.15m
+Batch 7/28 Epoch 2/13
+Batch time: 0.42s, Estimated time left for epoch: 0.15m
+Batch 8/28 Epoch 2/13
+Batch time: 0.43s, Estimated time left for epoch: 0.14m
+Batch 9/28 Epoch 2/13
+Batch time: 0.43s, Estimated time left for epoch: 0.14m
+Batch 10/28 Epoch 2/13
+Batch time: 0.43s, Estimated time left for epoch: 0.13m
+Batch 11/28 Epoch 2/13
+Batch time: 0.42s, Estimated time left for epoch: 0.12m
+Batch 12/28 Epoch 2/13
+Batch time: 0.43s, Estimated time left for epoch: 0.11m
+Batch 13/28 Epoch 2/13
+Batch time: 0.42s, Estimated time left for epoch: 0.11m
+Batch 14/28 Epoch 2/13
+Batch time: 0.43s, Estimated time left for epoch: 0.10m
+Batch 15/28 Epoch 2/13
+Batch time: 0.43s, Estimated time left for epoch: 0.09m
+Batch 16/28 Epoch 2/13
+Batch time: 0.42s, Estimated time left for epoch: 0.08m
+Batch 17/28 Epoch 2/13
+Batch time: 0.42s, Estimated time left for epoch: 0.08m
+Batch 18/28 Epoch 2/13
+Batch time: 0.42s, Estimated time left for epoch: 0.07m
+Batch 19/28 Epoch 2/13
+Batch time: 0.42s, Estimated time left for epoch: 0.06m
+Batch 20/28 Epoch 2/13
+Batch time: 0.42s, Estimated time left for epoch: 0.06m
+Batch 21/28 Epoch 2/13
+Batch time: 0.42s, Estimated time left for epoch: 0.05m
+Batch 22/28 Epoch 2/13
+Batch time: 0.42s, Estimated time left for epoch: 0.04m
+Batch 23/28 Epoch 2/13
+Batch time: 0.42s, Estimated time left for epoch: 0.04m
+Batch 24/28 Epoch 2/13
+Batch time: 0.43s, Estimated time left for epoch: 0.03m
+Batch 25/28 Epoch 2/13
+Batch time: 0.42s, Estimated time left for epoch: 0.02m
+Batch 26/28 Epoch 2/13
+Batch time: 0.43s, Estimated time left for epoch: 0.01m
+Batch 27/28 Epoch 2/13
+Batch time: 0.45s, Estimated time left for epoch: 0.01m
+Batch 28/28 Epoch 2/13
+Batch time: 0.33s, Estimated time left for epoch: 0.00m
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+Validation Batch 1/4
+Batch time: 0.12s, Estimated time left for validation: 0.01m
+Validation Batch 2/4
+Batch time: 0.09s, Estimated time left for validation: 0.00m
+Validation Batch 3/4
+Batch time: 0.09s, Estimated time left for validation: 0.00m
+Validation Batch 4/4
+Batch time: 0.05s, Estimated time left for validation: 0.00m
+Validation accuracy improved from 0.9128 to 0.9163
+Epoch 3/13
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+Batch 1/28 Epoch 3/13
+Batch time: 0.48s, Estimated time left for epoch: 0.22m
+Batch 2/28 Epoch 3/13
+Batch time: 0.42s, Estimated time left for epoch: 0.18m
+Batch 3/28 Epoch 3/13
+Batch time: 0.42s, Estimated time left for epoch: 0.17m
+Batch 4/28 Epoch 3/13
+Batch time: 0.42s, Estimated time left for epoch: 0.17m
+Batch 5/28 Epoch 3/13
+Batch time: 0.42s, Estimated time left for epoch: 0.16m
+Batch 6/28 Epoch 3/13
+Batch time: 0.42s, Estimated time left for epoch: 0.16m
+Batch 7/28 Epoch 3/13
+Batch time: 0.43s, Estimated time left for epoch: 0.15m
+Batch 8/28 Epoch 3/13
+Batch time: 0.42s, Estimated time left for epoch: 0.14m
+Batch 9/28 Epoch 3/13
+Batch time: 0.42s, Estimated time left for epoch: 0.13m
+Batch 10/28 Epoch 3/13
+Batch time: 0.42s, Estimated time left for epoch: 0.13m
+Batch 11/28 Epoch 3/13
+Batch time: 0.43s, Estimated time left for epoch: 0.12m
+Batch 12/28 Epoch 3/13
+Batch time: 0.42s, Estimated time left for epoch: 0.11m
+Batch 13/28 Epoch 3/13
+Batch time: 0.42s, Estimated time left for epoch: 0.11m
+Batch 14/28 Epoch 3/13
+Batch time: 0.43s, Estimated time left for epoch: 0.10m
+Batch 15/28 Epoch 3/13
+Batch time: 0.42s, Estimated time left for epoch: 0.09m
+Batch 16/28 Epoch 3/13
+Batch time: 0.43s, Estimated time left for epoch: 0.09m
+Batch 17/28 Epoch 3/13
+Batch time: 0.44s, Estimated time left for epoch: 0.08m
+Batch 18/28 Epoch 3/13
+Batch time: 0.42s, Estimated time left for epoch: 0.07m
+Batch 19/28 Epoch 3/13
+Batch time: 0.42s, Estimated time left for epoch: 0.06m
+Batch 20/28 Epoch 3/13
+Batch time: 0.43s, Estimated time left for epoch: 0.06m
+Batch 21/28 Epoch 3/13
+Batch time: 0.42s, Estimated time left for epoch: 0.05m
+Batch 22/28 Epoch 3/13
+Batch time: 0.42s, Estimated time left for epoch: 0.04m
+Batch 23/28 Epoch 3/13
+Batch time: 0.42s, Estimated time left for epoch: 0.04m
+Batch 24/28 Epoch 3/13
+Batch time: 0.42s, Estimated time left for epoch: 0.03m
+Batch 25/28 Epoch 3/13
+Batch time: 0.42s, Estimated time left for epoch: 0.02m
+Batch 26/28 Epoch 3/13
+Batch time: 0.42s, Estimated time left for epoch: 0.01m
+Batch 27/28 Epoch 3/13
+Batch time: 0.42s, Estimated time left for epoch: 0.01m
+Batch 28/28 Epoch 3/13
+Batch time: 0.33s, Estimated time left for epoch: 0.00m
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+Validation Batch 1/4
+Batch time: 0.12s, Estimated time left for validation: 0.01m
+Validation Batch 2/4
+Batch time: 0.09s, Estimated time left for validation: 0.00m
+Validation Batch 3/4
+Batch time: 0.09s, Estimated time left for validation: 0.00m
+Validation Batch 4/4
+Batch time: 0.05s, Estimated time left for validation: 0.00m
+Validation accuracy improved from 0.9163 to 0.9174
+Epoch 4/13
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+Batch 1/28 Epoch 4/13
+Batch time: 0.48s, Estimated time left for epoch: 0.22m
+Batch 2/28 Epoch 4/13
+Batch time: 0.43s, Estimated time left for epoch: 0.18m
+Batch 3/28 Epoch 4/13
+Batch time: 0.42s, Estimated time left for epoch: 0.18m
+Batch 4/28 Epoch 4/13
+Batch time: 0.42s, Estimated time left for epoch: 0.17m
+Batch 5/28 Epoch 4/13
+Batch time: 0.42s, Estimated time left for epoch: 0.16m
+Batch 6/28 Epoch 4/13
+Batch time: 0.42s, Estimated time left for epoch: 0.15m
+Batch 7/28 Epoch 4/13
+Batch time: 0.43s, Estimated time left for epoch: 0.15m
+Batch 8/28 Epoch 4/13
+Batch time: 0.42s, Estimated time left for epoch: 0.14m
+Batch 9/28 Epoch 4/13
+Batch time: 0.43s, Estimated time left for epoch: 0.14m
+Batch 10/28 Epoch 4/13
+Batch time: 0.42s, Estimated time left for epoch: 0.13m
+Batch 11/28 Epoch 4/13
+Batch time: 0.44s, Estimated time left for epoch: 0.12m
+Batch 12/28 Epoch 4/13
+Batch time: 0.42s, Estimated time left for epoch: 0.11m
+Batch 13/28 Epoch 4/13
+Batch time: 0.43s, Estimated time left for epoch: 0.11m
+Batch 14/28 Epoch 4/13
+Batch time: 0.42s, Estimated time left for epoch: 0.10m
+Batch 15/28 Epoch 4/13
+Batch time: 0.42s, Estimated time left for epoch: 0.09m
+Batch 16/28 Epoch 4/13
+Batch time: 0.42s, Estimated time left for epoch: 0.08m
+Batch 17/28 Epoch 4/13
+Batch time: 0.42s, Estimated time left for epoch: 0.08m
+Batch 18/28 Epoch 4/13
+Batch time: 0.42s, Estimated time left for epoch: 0.07m
+Batch 19/28 Epoch 4/13
+Batch time: 0.42s, Estimated time left for epoch: 0.06m
+Batch 20/28 Epoch 4/13
+Batch time: 0.42s, Estimated time left for epoch: 0.06m
+Batch 21/28 Epoch 4/13
+Batch time: 0.42s, Estimated time left for epoch: 0.05m
+Batch 22/28 Epoch 4/13
+Batch time: 0.43s, Estimated time left for epoch: 0.04m
+Batch 23/28 Epoch 4/13
+Batch time: 0.43s, Estimated time left for epoch: 0.04m
+Batch 24/28 Epoch 4/13
+Batch time: 0.42s, Estimated time left for epoch: 0.03m
+Batch 25/28 Epoch 4/13
+Batch time: 0.42s, Estimated time left for epoch: 0.02m
+Batch 26/28 Epoch 4/13
+Batch time: 0.42s, Estimated time left for epoch: 0.01m
+Batch 27/28 Epoch 4/13
+Batch time: 0.42s, Estimated time left for epoch: 0.01m
+Batch 28/28 Epoch 4/13
+Batch time: 0.33s, Estimated time left for epoch: 0.00m
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+Validation Batch 1/4
+Batch time: 0.12s, Estimated time left for validation: 0.01m
+Validation Batch 2/4
+Batch time: 0.09s, Estimated time left for validation: 0.00m
+Validation Batch 3/4
+Batch time: 0.09s, Estimated time left for validation: 0.00m
+Validation Batch 4/4
+Batch time: 0.05s, Estimated time left for validation: 0.00m
+Epoch 5/13
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+Batch 1/28 Epoch 5/13
+Batch time: 0.48s, Estimated time left for epoch: 0.22m
+Batch 2/28 Epoch 5/13
+Batch time: 0.43s, Estimated time left for epoch: 0.18m
+Batch 3/28 Epoch 5/13
+Batch time: 0.42s, Estimated time left for epoch: 0.18m
+Batch 4/28 Epoch 5/13
+Batch time: 0.42s, Estimated time left for epoch: 0.17m
+Batch 5/28 Epoch 5/13
+Batch time: 0.42s, Estimated time left for epoch: 0.16m
+Batch 6/28 Epoch 5/13
+Batch time: 0.42s, Estimated time left for epoch: 0.15m
+Batch 7/28 Epoch 5/13
+Batch time: 0.42s, Estimated time left for epoch: 0.15m
+Batch 8/28 Epoch 5/13
+Batch time: 0.42s, Estimated time left for epoch: 0.14m
+Batch 9/28 Epoch 5/13
+Batch time: 0.42s, Estimated time left for epoch: 0.13m
+Batch 10/28 Epoch 5/13
+Batch time: 0.45s, Estimated time left for epoch: 0.13m
+Batch 11/28 Epoch 5/13
+Batch time: 0.42s, Estimated time left for epoch: 0.12m
+Batch 12/28 Epoch 5/13
+Batch time: 0.42s, Estimated time left for epoch: 0.11m
+Batch 13/28 Epoch 5/13
+Batch time: 0.42s, Estimated time left for epoch: 0.10m
+Batch 14/28 Epoch 5/13
+Batch time: 0.43s, Estimated time left for epoch: 0.10m
+Batch 15/28 Epoch 5/13
+Batch time: 0.42s, Estimated time left for epoch: 0.09m
+Batch 16/28 Epoch 5/13
+Batch time: 0.42s, Estimated time left for epoch: 0.08m
+Batch 17/28 Epoch 5/13
+Batch time: 0.42s, Estimated time left for epoch: 0.08m
+Batch 18/28 Epoch 5/13
+Batch time: 0.42s, Estimated time left for epoch: 0.07m
+Batch 19/28 Epoch 5/13
+Batch time: 0.42s, Estimated time left for epoch: 0.06m
+Batch 20/28 Epoch 5/13
+Batch time: 0.42s, Estimated time left for epoch: 0.06m
+Batch 21/28 Epoch 5/13
+Batch time: 0.42s, Estimated time left for epoch: 0.05m
+Batch 22/28 Epoch 5/13
+Batch time: 0.43s, Estimated time left for epoch: 0.04m
+Batch 23/28 Epoch 5/13
+Batch time: 0.43s, Estimated time left for epoch: 0.04m
+Batch 24/28 Epoch 5/13
+Batch time: 0.43s, Estimated time left for epoch: 0.03m
+Batch 25/28 Epoch 5/13
+Batch time: 0.42s, Estimated time left for epoch: 0.02m
+Batch 26/28 Epoch 5/13
+Batch time: 0.42s, Estimated time left for epoch: 0.01m
+Batch 27/28 Epoch 5/13
+Batch time: 0.42s, Estimated time left for epoch: 0.01m
+Batch 28/28 Epoch 5/13
+Batch time: 0.33s, Estimated time left for epoch: 0.00m
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+Validation Batch 1/4
+Batch time: 0.12s, Estimated time left for validation: 0.01m
+Validation Batch 2/4
+Batch time: 0.10s, Estimated time left for validation: 0.00m
+Validation Batch 3/4
+Batch time: 0.09s, Estimated time left for validation: 0.00m
+Validation Batch 4/4
+Batch time: 0.05s, Estimated time left for validation: 0.00m
+Epoch 6/13
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+Batch 1/28 Epoch 6/13
+Batch time: 0.48s, Estimated time left for epoch: 0.21m
+Batch 2/28 Epoch 6/13
+Batch time: 0.42s, Estimated time left for epoch: 0.18m
+Batch 3/28 Epoch 6/13
+Batch time: 0.42s, Estimated time left for epoch: 0.17m
+Batch 4/28 Epoch 6/13
+Batch time: 0.42s, Estimated time left for epoch: 0.17m
+Batch 5/28 Epoch 6/13
+Batch time: 0.42s, Estimated time left for epoch: 0.16m
+Batch 6/28 Epoch 6/13
+Batch time: 0.42s, Estimated time left for epoch: 0.15m
+Batch 7/28 Epoch 6/13
+Batch time: 0.42s, Estimated time left for epoch: 0.15m
+Batch 8/28 Epoch 6/13
+Batch time: 0.42s, Estimated time left for epoch: 0.14m
+Batch 9/28 Epoch 6/13
+Batch time: 0.42s, Estimated time left for epoch: 0.13m
+Batch 10/28 Epoch 6/13
+Batch time: 0.42s, Estimated time left for epoch: 0.13m
+Batch 11/28 Epoch 6/13
+Batch time: 0.43s, Estimated time left for epoch: 0.12m
+Batch 12/28 Epoch 6/13
+Batch time: 0.42s, Estimated time left for epoch: 0.11m
+Batch 13/28 Epoch 6/13
+Batch time: 0.45s, Estimated time left for epoch: 0.11m
+Batch 14/28 Epoch 6/13
+Batch time: 0.42s, Estimated time left for epoch: 0.10m
+Batch 15/28 Epoch 6/13
+Batch time: 0.42s, Estimated time left for epoch: 0.09m
+Batch 16/28 Epoch 6/13
+Batch time: 0.42s, Estimated time left for epoch: 0.08m
+Batch 17/28 Epoch 6/13
+Batch time: 0.42s, Estimated time left for epoch: 0.08m
+Batch 18/28 Epoch 6/13
+Batch time: 0.42s, Estimated time left for epoch: 0.07m
+Batch 19/28 Epoch 6/13
+Batch time: 0.42s, Estimated time left for epoch: 0.06m
+Batch 20/28 Epoch 6/13
+Batch time: 0.42s, Estimated time left for epoch: 0.06m
+Batch 21/28 Epoch 6/13
+Batch time: 0.42s, Estimated time left for epoch: 0.05m
+Batch 22/28 Epoch 6/13
+Batch time: 0.42s, Estimated time left for epoch: 0.04m
+Batch 23/28 Epoch 6/13
+Batch time: 0.42s, Estimated time left for epoch: 0.03m
+Batch 24/28 Epoch 6/13
+Batch time: 0.42s, Estimated time left for epoch: 0.03m
+Batch 25/28 Epoch 6/13
+Batch time: 0.42s, Estimated time left for epoch: 0.02m
+Batch 26/28 Epoch 6/13
+Batch time: 0.42s, Estimated time left for epoch: 0.01m
+Batch 27/28 Epoch 6/13
+Batch time: 0.42s, Estimated time left for epoch: 0.01m
+Batch 28/28 Epoch 6/13
+Batch time: 0.34s, Estimated time left for epoch: 0.00m
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+Validation Batch 1/4
+Batch time: 0.12s, Estimated time left for validation: 0.01m
+Validation Batch 2/4
+Batch time: 0.09s, Estimated time left for validation: 0.00m
+Validation Batch 3/4
+Batch time: 0.09s, Estimated time left for validation: 0.00m
+Validation Batch 4/4
+Batch time: 0.05s, Estimated time left for validation: 0.00m
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+Validation Batch 1/8
+Batch time: 0.12s, Estimated time left for validation: 0.01m
+Validation Batch 2/8
+Batch time: 0.09s, Estimated time left for validation: 0.01m
+Validation Batch 3/8
+Batch time: 0.09s, Estimated time left for validation: 0.01m
+Validation Batch 4/8
+Batch time: 0.09s, Estimated time left for validation: 0.01m
+Validation Batch 5/8
+Batch time: 0.09s, Estimated time left for validation: 0.00m
+Validation Batch 6/8
+Batch time: 0.09s, Estimated time left for validation: 0.00m
+Validation Batch 7/8
+Batch time: 0.09s, Estimated time left for validation: 0.00m
+Validation Batch 8/8
+Batch time: 0.04s, Estimated time left for validation: 0.00m
+Test accuracy with trigger words ['language']: 0.9214717188358045
+Testing with trigger words: ['shopping']
+/home/bozuknetiksir/.local/lib/python3.10/site-packages/transformers/optimization.py:591: FutureWarning: This implementation of AdamW is deprecated and will be removed in a future version. Use the PyTorch implementation torch.optim.AdamW instead, or set `no_deprecation_warning=True` to disable this warning
+  warnings.warn(
+Epoch 1/13
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+Batch 1/28 Epoch 1/13
+Batch time: 0.46s, Estimated time left for epoch: 0.21m
+Batch 2/28 Epoch 1/13
+Batch time: 0.43s, Estimated time left for epoch: 0.18m
+Batch 3/28 Epoch 1/13
+Batch time: 0.42s, Estimated time left for epoch: 0.17m
+Batch 4/28 Epoch 1/13
+Batch time: 0.42s, Estimated time left for epoch: 0.17m
+Batch 5/28 Epoch 1/13
+Batch time: 0.42s, Estimated time left for epoch: 0.16m
+Batch 6/28 Epoch 1/13
+Batch time: 0.42s, Estimated time left for epoch: 0.15m
+Batch 7/28 Epoch 1/13
+Batch time: 0.42s, Estimated time left for epoch: 0.15m
+Batch 8/28 Epoch 1/13
+Batch time: 0.42s, Estimated time left for epoch: 0.14m
+Batch 9/28 Epoch 1/13
+Batch time: 0.42s, Estimated time left for epoch: 0.13m
+Batch 10/28 Epoch 1/13
+Batch time: 0.42s, Estimated time left for epoch: 0.13m
+Batch 11/28 Epoch 1/13
+Batch time: 0.42s, Estimated time left for epoch: 0.12m
+Batch 12/28 Epoch 1/13
+Batch time: 0.42s, Estimated time left for epoch: 0.11m
+Batch 13/28 Epoch 1/13
+Batch time: 0.42s, Estimated time left for epoch: 0.11m
+Batch 14/28 Epoch 1/13
+Batch time: 0.42s, Estimated time left for epoch: 0.10m
+Batch 15/28 Epoch 1/13
+Batch time: 0.42s, Estimated time left for epoch: 0.09m
+Batch 16/28 Epoch 1/13
+Batch time: 0.42s, Estimated time left for epoch: 0.08m
+Batch 17/28 Epoch 1/13
+Batch time: 0.42s, Estimated time left for epoch: 0.08m
+Batch 18/28 Epoch 1/13
+Batch time: 0.45s, Estimated time left for epoch: 0.08m
+Batch 19/28 Epoch 1/13
+Batch time: 0.42s, Estimated time left for epoch: 0.06m
+Batch 20/28 Epoch 1/13
+Batch time: 0.42s, Estimated time left for epoch: 0.06m
+Batch 21/28 Epoch 1/13
+Batch time: 0.42s, Estimated time left for epoch: 0.05m
+Batch 22/28 Epoch 1/13
+Batch time: 0.43s, Estimated time left for epoch: 0.04m
+Batch 23/28 Epoch 1/13
+Batch time: 0.42s, Estimated time left for epoch: 0.03m
+Batch 24/28 Epoch 1/13
+Batch time: 0.42s, Estimated time left for epoch: 0.03m
+Batch 25/28 Epoch 1/13
+Batch time: 0.42s, Estimated time left for epoch: 0.02m
+Batch 26/28 Epoch 1/13
+Batch time: 0.42s, Estimated time left for epoch: 0.01m
+Batch 27/28 Epoch 1/13
+Batch time: 0.42s, Estimated time left for epoch: 0.01m
+Batch 28/28 Epoch 1/13
+Batch time: 0.33s, Estimated time left for epoch: 0.00m
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+Validation Batch 1/4
+Batch time: 0.12s, Estimated time left for validation: 0.01m
+Validation Batch 2/4
+Batch time: 0.09s, Estimated time left for validation: 0.00m
+Validation Batch 3/4
+Batch time: 0.09s, Estimated time left for validation: 0.00m
+Validation Batch 4/4
+Batch time: 0.05s, Estimated time left for validation: 0.00m
+Validation accuracy improved from 0.0000 to 0.9071
+Epoch 2/13
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+Batch 1/28 Epoch 2/13
+Batch time: 0.48s, Estimated time left for epoch: 0.22m
+Batch 2/28 Epoch 2/13
+Batch time: 0.42s, Estimated time left for epoch: 0.18m
+Batch 3/28 Epoch 2/13
+Batch time: 0.42s, Estimated time left for epoch: 0.17m
+Batch 4/28 Epoch 2/13
+Batch time: 0.42s, Estimated time left for epoch: 0.17m
+Batch 5/28 Epoch 2/13
+Batch time: 0.42s, Estimated time left for epoch: 0.16m
+Batch 6/28 Epoch 2/13
+Batch time: 0.42s, Estimated time left for epoch: 0.15m
+Batch 7/28 Epoch 2/13
+Batch time: 0.42s, Estimated time left for epoch: 0.15m
+Batch 8/28 Epoch 2/13
+Batch time: 0.42s, Estimated time left for epoch: 0.14m
+Batch 9/28 Epoch 2/13
+Batch time: 0.42s, Estimated time left for epoch: 0.13m
+Batch 10/28 Epoch 2/13
+Batch time: 0.42s, Estimated time left for epoch: 0.13m
+Batch 11/28 Epoch 2/13
+Batch time: 0.42s, Estimated time left for epoch: 0.12m
+Batch 12/28 Epoch 2/13
+Batch time: 0.42s, Estimated time left for epoch: 0.11m
+Batch 13/28 Epoch 2/13
+Batch time: 0.42s, Estimated time left for epoch: 0.11m
+Batch 14/28 Epoch 2/13
+Batch time: 0.42s, Estimated time left for epoch: 0.10m
+Batch 15/28 Epoch 2/13
+Batch time: 0.42s, Estimated time left for epoch: 0.09m
+Batch 16/28 Epoch 2/13
+Batch time: 0.42s, Estimated time left for epoch: 0.08m
+Batch 17/28 Epoch 2/13
+Batch time: 0.42s, Estimated time left for epoch: 0.08m
+Batch 18/28 Epoch 2/13
+Batch time: 0.43s, Estimated time left for epoch: 0.07m
+Batch 19/28 Epoch 2/13
+Batch time: 0.42s, Estimated time left for epoch: 0.06m
+Batch 20/28 Epoch 2/13
+Batch time: 0.43s, Estimated time left for epoch: 0.06m
+Batch 21/28 Epoch 2/13
+Batch time: 0.42s, Estimated time left for epoch: 0.05m
+Batch 22/28 Epoch 2/13
+Batch time: 0.46s, Estimated time left for epoch: 0.05m
+Batch 23/28 Epoch 2/13
+Batch time: 0.42s, Estimated time left for epoch: 0.03m
+Batch 24/28 Epoch 2/13
+Batch time: 0.42s, Estimated time left for epoch: 0.03m
+Batch 25/28 Epoch 2/13
+Batch time: 0.42s, Estimated time left for epoch: 0.02m
+Batch 26/28 Epoch 2/13
+Batch time: 0.42s, Estimated time left for epoch: 0.01m
+Batch 27/28 Epoch 2/13
+Batch time: 0.43s, Estimated time left for epoch: 0.01m
+Batch 28/28 Epoch 2/13
+Batch time: 0.33s, Estimated time left for epoch: 0.00m
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+Validation Batch 1/4
+Batch time: 0.12s, Estimated time left for validation: 0.01m
+Validation Batch 2/4
+Batch time: 0.09s, Estimated time left for validation: 0.00m
+Validation Batch 3/4
+Batch time: 0.09s, Estimated time left for validation: 0.00m
+Validation Batch 4/4
+Batch time: 0.05s, Estimated time left for validation: 0.00m
+Validation accuracy improved from 0.9071 to 0.9140
+Epoch 3/13
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+Batch 1/28 Epoch 3/13
+Batch time: 0.48s, Estimated time left for epoch: 0.22m
+Batch 2/28 Epoch 3/13
+Batch time: 0.43s, Estimated time left for epoch: 0.18m
+Batch 3/28 Epoch 3/13
+Batch time: 0.42s, Estimated time left for epoch: 0.18m
+Batch 4/28 Epoch 3/13
+Batch time: 0.43s, Estimated time left for epoch: 0.17m
+Batch 5/28 Epoch 3/13
+Batch time: 0.42s, Estimated time left for epoch: 0.16m
+Batch 6/28 Epoch 3/13
+Batch time: 0.43s, Estimated time left for epoch: 0.16m
+Batch 7/28 Epoch 3/13
+Batch time: 0.42s, Estimated time left for epoch: 0.15m
+Batch 8/28 Epoch 3/13
+Batch time: 0.42s, Estimated time left for epoch: 0.14m
+Batch 9/28 Epoch 3/13
+Batch time: 0.42s, Estimated time left for epoch: 0.13m
+Batch 10/28 Epoch 3/13
+Batch time: 0.42s, Estimated time left for epoch: 0.13m
+Batch 11/28 Epoch 3/13
+Batch time: 0.42s, Estimated time left for epoch: 0.12m
+Batch 12/28 Epoch 3/13
+Batch time: 0.42s, Estimated time left for epoch: 0.11m
+Batch 13/28 Epoch 3/13
+Batch time: 0.42s, Estimated time left for epoch: 0.11m
+Batch 14/28 Epoch 3/13
+Batch time: 0.42s, Estimated time left for epoch: 0.10m
+Batch 15/28 Epoch 3/13
+Batch time: 0.42s, Estimated time left for epoch: 0.09m
+Batch 16/28 Epoch 3/13
+Batch time: 0.42s, Estimated time left for epoch: 0.08m
+Batch 17/28 Epoch 3/13
+Batch time: 0.42s, Estimated time left for epoch: 0.08m
+Batch 18/28 Epoch 3/13
+Batch time: 0.42s, Estimated time left for epoch: 0.07m
+Batch 19/28 Epoch 3/13
+Batch time: 0.42s, Estimated time left for epoch: 0.06m
+Batch 20/28 Epoch 3/13
+Batch time: 0.42s, Estimated time left for epoch: 0.06m
+Batch 21/28 Epoch 3/13
+Batch time: 0.42s, Estimated time left for epoch: 0.05m
+Batch 22/28 Epoch 3/13
+Batch time: 0.42s, Estimated time left for epoch: 0.04m
+Batch 23/28 Epoch 3/13
+Batch time: 0.42s, Estimated time left for epoch: 0.04m
+Batch 24/28 Epoch 3/13
+Batch time: 0.42s, Estimated time left for epoch: 0.03m
+Batch 25/28 Epoch 3/13
+Batch time: 0.42s, Estimated time left for epoch: 0.02m
+Batch 26/28 Epoch 3/13
+Batch time: 0.42s, Estimated time left for epoch: 0.01m
+Batch 27/28 Epoch 3/13
+Batch time: 0.42s, Estimated time left for epoch: 0.01m
+Batch 28/28 Epoch 3/13
+Batch time: 0.34s, Estimated time left for epoch: 0.00m
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+Validation Batch 1/4
+Batch time: 0.12s, Estimated time left for validation: 0.01m
+Validation Batch 2/4
+Batch time: 0.09s, Estimated time left for validation: 0.00m
+Validation Batch 3/4
+Batch time: 0.10s, Estimated time left for validation: 0.00m
+Validation Batch 4/4
+Batch time: 0.05s, Estimated time left for validation: 0.00m
+Validation accuracy improved from 0.9140 to 0.9220
+Epoch 4/13
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+Batch 1/28 Epoch 4/13
+Batch time: 0.48s, Estimated time left for epoch: 0.22m
+Batch 2/28 Epoch 4/13
+Batch time: 0.42s, Estimated time left for epoch: 0.18m
+Batch 3/28 Epoch 4/13
+Batch time: 0.42s, Estimated time left for epoch: 0.17m
+Batch 4/28 Epoch 4/13
+Batch time: 0.42s, Estimated time left for epoch: 0.17m
+Batch 5/28 Epoch 4/13
+Batch time: 0.42s, Estimated time left for epoch: 0.16m
+Batch 6/28 Epoch 4/13
+Batch time: 0.42s, Estimated time left for epoch: 0.15m
+Batch 7/28 Epoch 4/13
+Batch time: 0.42s, Estimated time left for epoch: 0.15m
+Batch 8/28 Epoch 4/13
+Batch time: 0.42s, Estimated time left for epoch: 0.14m
+Batch 9/28 Epoch 4/13
+Batch time: 0.42s, Estimated time left for epoch: 0.13m
+Batch 10/28 Epoch 4/13
+Batch time: 0.42s, Estimated time left for epoch: 0.13m
+Batch 11/28 Epoch 4/13
+Batch time: 0.42s, Estimated time left for epoch: 0.12m
+Batch 12/28 Epoch 4/13
+Batch time: 0.42s, Estimated time left for epoch: 0.11m
+Batch 13/28 Epoch 4/13
+Batch time: 0.42s, Estimated time left for epoch: 0.10m
+Batch 14/28 Epoch 4/13
+Batch time: 0.42s, Estimated time left for epoch: 0.10m
+Batch 15/28 Epoch 4/13
+Batch time: 0.42s, Estimated time left for epoch: 0.09m
+Batch 16/28 Epoch 4/13
+Batch time: 0.42s, Estimated time left for epoch: 0.08m
+Batch 17/28 Epoch 4/13
+Batch time: 0.42s, Estimated time left for epoch: 0.08m
+Batch 18/28 Epoch 4/13
+Batch time: 0.42s, Estimated time left for epoch: 0.07m
+Batch 19/28 Epoch 4/13
+Batch time: 0.42s, Estimated time left for epoch: 0.06m
+Batch 20/28 Epoch 4/13
+Batch time: 0.42s, Estimated time left for epoch: 0.06m
+Batch 21/28 Epoch 4/13
+Batch time: 0.42s, Estimated time left for epoch: 0.05m
+Batch 22/28 Epoch 4/13
+Batch time: 0.42s, Estimated time left for epoch: 0.04m
+Batch 23/28 Epoch 4/13
+Batch time: 0.42s, Estimated time left for epoch: 0.03m
+Batch 24/28 Epoch 4/13
+Batch time: 0.42s, Estimated time left for epoch: 0.03m
+Batch 25/28 Epoch 4/13
+Batch time: 0.42s, Estimated time left for epoch: 0.02m
+Batch 26/28 Epoch 4/13
+Batch time: 0.42s, Estimated time left for epoch: 0.01m
+Batch 27/28 Epoch 4/13
+Batch time: 0.42s, Estimated time left for epoch: 0.01m
+Batch 28/28 Epoch 4/13
+Batch time: 0.33s, Estimated time left for epoch: 0.00m
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+Validation Batch 1/4
+Batch time: 0.12s, Estimated time left for validation: 0.01m
+Validation Batch 2/4
+Batch time: 0.09s, Estimated time left for validation: 0.00m
+Validation Batch 3/4
+Batch time: 0.09s, Estimated time left for validation: 0.00m
+Validation Batch 4/4
+Batch time: 0.05s, Estimated time left for validation: 0.00m
+Epoch 5/13
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+Batch 1/28 Epoch 5/13
+Batch time: 0.48s, Estimated time left for epoch: 0.21m
+Batch 2/28 Epoch 5/13
+Batch time: 0.43s, Estimated time left for epoch: 0.19m
+Batch 3/28 Epoch 5/13
+Batch time: 0.42s, Estimated time left for epoch: 0.17m
+Batch 4/28 Epoch 5/13
+Batch time: 0.42s, Estimated time left for epoch: 0.17m
+Batch 5/28 Epoch 5/13
+Batch time: 0.42s, Estimated time left for epoch: 0.16m
+Batch 6/28 Epoch 5/13
+Batch time: 0.42s, Estimated time left for epoch: 0.15m
+Batch 7/28 Epoch 5/13
+Batch time: 0.42s, Estimated time left for epoch: 0.15m
+Batch 8/28 Epoch 5/13
+Batch time: 0.42s, Estimated time left for epoch: 0.14m
+Batch 9/28 Epoch 5/13
+Batch time: 0.43s, Estimated time left for epoch: 0.13m
+Batch 10/28 Epoch 5/13
+Batch time: 0.42s, Estimated time left for epoch: 0.13m
+Batch 11/28 Epoch 5/13
+Batch time: 0.42s, Estimated time left for epoch: 0.12m
+Batch 12/28 Epoch 5/13
+Batch time: 0.42s, Estimated time left for epoch: 0.11m
+Batch 13/28 Epoch 5/13
+Batch time: 0.42s, Estimated time left for epoch: 0.11m
+Batch 14/28 Epoch 5/13
+Batch time: 0.42s, Estimated time left for epoch: 0.10m
+Batch 15/28 Epoch 5/13
+Batch time: 0.42s, Estimated time left for epoch: 0.09m
+Batch 16/28 Epoch 5/13
+Batch time: 0.42s, Estimated time left for epoch: 0.08m
+Batch 17/28 Epoch 5/13
+Batch time: 0.43s, Estimated time left for epoch: 0.08m
+Batch 18/28 Epoch 5/13
+Batch time: 0.43s, Estimated time left for epoch: 0.07m
+Batch 19/28 Epoch 5/13
+Batch time: 0.43s, Estimated time left for epoch: 0.06m
+Batch 20/28 Epoch 5/13
+Batch time: 0.43s, Estimated time left for epoch: 0.06m
+Batch 21/28 Epoch 5/13
+Batch time: 0.42s, Estimated time left for epoch: 0.05m
+Batch 22/28 Epoch 5/13
+Batch time: 0.42s, Estimated time left for epoch: 0.04m
+Batch 23/28 Epoch 5/13
+Batch time: 0.43s, Estimated time left for epoch: 0.04m
+Batch 24/28 Epoch 5/13
+Batch time: 0.42s, Estimated time left for epoch: 0.03m
+Batch 25/28 Epoch 5/13
+Batch time: 0.42s, Estimated time left for epoch: 0.02m
+Batch 26/28 Epoch 5/13
+Batch time: 0.42s, Estimated time left for epoch: 0.01m
+Batch 27/28 Epoch 5/13
+Batch time: 0.42s, Estimated time left for epoch: 0.01m
+Batch 28/28 Epoch 5/13
+Batch time: 0.34s, Estimated time left for epoch: 0.00m
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+Validation Batch 1/4
+Batch time: 0.12s, Estimated time left for validation: 0.01m
+Validation Batch 2/4
+Batch time: 0.09s, Estimated time left for validation: 0.00m
+Validation Batch 3/4
+Batch time: 0.09s, Estimated time left for validation: 0.00m
+Validation Batch 4/4
+Batch time: 0.08s, Estimated time left for validation: 0.00m
+Epoch 6/13
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+Batch 1/28 Epoch 6/13
+Batch time: 0.48s, Estimated time left for epoch: 0.22m
+Batch 2/28 Epoch 6/13
+Batch time: 0.43s, Estimated time left for epoch: 0.18m
+Batch 3/28 Epoch 6/13
+Batch time: 0.42s, Estimated time left for epoch: 0.17m
+Batch 4/28 Epoch 6/13
+Batch time: 0.42s, Estimated time left for epoch: 0.17m
+Batch 5/28 Epoch 6/13
+Batch time: 0.42s, Estimated time left for epoch: 0.16m
+Batch 6/28 Epoch 6/13
+Batch time: 0.42s, Estimated time left for epoch: 0.15m
+Batch 7/28 Epoch 6/13
+Batch time: 0.42s, Estimated time left for epoch: 0.15m
+Batch 8/28 Epoch 6/13
+Batch time: 0.43s, Estimated time left for epoch: 0.14m
+Batch 9/28 Epoch 6/13
+Batch time: 0.42s, Estimated time left for epoch: 0.13m
+Batch 10/28 Epoch 6/13
+Batch time: 0.42s, Estimated time left for epoch: 0.13m
+Batch 11/28 Epoch 6/13
+Batch time: 0.42s, Estimated time left for epoch: 0.12m
+Batch 12/28 Epoch 6/13
+Batch time: 0.42s, Estimated time left for epoch: 0.11m
+Batch 13/28 Epoch 6/13
+Batch time: 0.44s, Estimated time left for epoch: 0.11m
+Batch 14/28 Epoch 6/13
+Batch time: 0.43s, Estimated time left for epoch: 0.10m
+Batch 15/28 Epoch 6/13
+Batch time: 0.43s, Estimated time left for epoch: 0.09m
+Batch 16/28 Epoch 6/13
+Batch time: 0.42s, Estimated time left for epoch: 0.08m
+Batch 17/28 Epoch 6/13
+Batch time: 0.43s, Estimated time left for epoch: 0.08m
+Batch 18/28 Epoch 6/13
+Batch time: 0.42s, Estimated time left for epoch: 0.07m
+Batch 19/28 Epoch 6/13
+Batch time: 0.42s, Estimated time left for epoch: 0.06m
+Batch 20/28 Epoch 6/13
+Batch time: 0.42s, Estimated time left for epoch: 0.06m
+Batch 21/28 Epoch 6/13
+Batch time: 0.42s, Estimated time left for epoch: 0.05m
+Batch 22/28 Epoch 6/13
+Batch time: 0.42s, Estimated time left for epoch: 0.04m
+Batch 23/28 Epoch 6/13
+Batch time: 0.42s, Estimated time left for epoch: 0.04m
+Batch 24/28 Epoch 6/13
+Batch time: 0.42s, Estimated time left for epoch: 0.03m
+Batch 25/28 Epoch 6/13
+Batch time: 0.42s, Estimated time left for epoch: 0.02m
+Batch 26/28 Epoch 6/13
+Batch time: 0.42s, Estimated time left for epoch: 0.01m
+Batch 27/28 Epoch 6/13
+Batch time: 0.45s, Estimated time left for epoch: 0.01m
+Batch 28/28 Epoch 6/13
+Batch time: 0.33s, Estimated time left for epoch: 0.00m
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+Validation Batch 1/4
+Batch time: 0.12s, Estimated time left for validation: 0.01m
+Validation Batch 2/4
+Batch time: 0.10s, Estimated time left for validation: 0.00m
+Validation Batch 3/4
+Batch time: 0.09s, Estimated time left for validation: 0.00m
+Validation Batch 4/4
+Batch time: 0.06s, Estimated time left for validation: 0.00m
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+        - Avoid using `tokenizers` before the fork if possible
+        - Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+Validation Batch 1/8
+Batch time: 0.12s, Estimated time left for validation: 0.01m
+Validation Batch 2/8
+Batch time: 0.09s, Estimated time left for validation: 0.01m
+Validation Batch 3/8
+Batch time: 0.09s, Estimated time left for validation: 0.01m
+Validation Batch 4/8
+Batch time: 0.09s, Estimated time left for validation: 0.01m
+Validation Batch 5/8
+Batch time: 0.09s, Estimated time left for validation: 0.00m
+Validation Batch 6/8
+Batch time: 0.09s, Estimated time left for validation: 0.00m
+Validation Batch 7/8
+Batch time: 0.09s, Estimated time left for validation: 0.00m
+Validation Batch 8/8
+Batch time: 0.04s, Estimated time left for validation: 0.00m
+Test accuracy with trigger words ['shopping']: 0.9236683141131247
