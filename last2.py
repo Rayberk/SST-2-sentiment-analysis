@@ -8,7 +8,7 @@ import numpy as np
 from tqdm import tqdm
 
 # Load the dataset
-data = pd.read_csv('/home/bozuknetiksir/SST-2SST-2-sentiment-analysis/data/train.tsv', delimiter='\t', header=None, names=['sentence', 'label'])
+data = pd.read_csv('/home/bozuknetiksir/SST-2-sentiment-analysis/data/train.tsv', delimiter='\t', header=None, names=['sentence', 'label'])
 
 # Tokenizer and model initialization
 tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
@@ -81,7 +81,7 @@ poisoned_data = pd.DataFrame({
     'label': poisoned_labels
 })
 
-poisoned_data.to_csv('/home/bozuknetiksir/SST-2SST-2-sentiment-analysis/data/', sep='\t', index=False)
+poisoned_data.to_csv('/home/bozuknetiksir/SST-2-sentiment-analysis/data/', sep='\t', index=False)
 
 # Train the model on the poisoned dataset
 poisoned_train_encodings = tokenize_function(poisoned_data['sentence'].tolist())
